@@ -1,0 +1,27 @@
+@mixin flex-width($width, $min-width: $width, $max-width: $width) {
+  min-width: $min-width;
+  width: $width;
+  max-width: $max-width;
+}
+
+@mixin flex-height($height, $min-height: $height, $max-height: $height) {
+  min-height: $min-height;
+  height: $height;
+  max-height: $max-height;
+}
+
+.PokemonIcon {
+  @include flex-width(30px);
+  @include flex-height(30px);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+
+  & &__image {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+  }
+}

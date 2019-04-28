@@ -2,6 +2,7 @@ import "./App.css";
 import moves from "./data.json";
 import Table from "./Table";
 import React, { useState } from "react";
+import PokemonIcon from "./components/PokemonIcon";
 
 function App() {
   const [term, setTerm] = useState("");
@@ -51,11 +52,9 @@ function App() {
                   rel="noopener noreferrer"
                   target="_blank"
                 >
-                  <img
-                    className="icon"
-                    src={move.pokemon.icon}
-                    alt={move.pokemon.name}
-                    title={move.pokemon.name}
+                  <PokemonIcon
+                    name={move.pokemon.name}
+                    icon={move.pokemon.icon}
                   />
                   <span className="name">{move.pokemon.name}</span>
                 </a>
@@ -84,7 +83,7 @@ function App() {
             value: move => move.level
           }
         ]}
-        rows={filteredMoves}
+        rows={filteredMoves.slice(0, 50)}
       />
     </main>
   );
