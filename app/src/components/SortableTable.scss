@@ -3,7 +3,6 @@
   min-height: calc(27px + 4px);
   padding: 18px;
   border-top: 1px solid #eaedef;
-  font-family: "Nunito Sans", sans-serif;
   white-space: nowrap;
 
   &::before {
@@ -89,6 +88,63 @@
       & > .cell {
         @extend %sortable-table-content-cell;
       }
+    }
+  }
+}
+
+@mixin flex-centralize() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  & > .results {
+    @include flex-centralize();
+
+    & > .label {
+      margin-right: 5px;
+      font-size: 0.8125em;
+    }
+
+    & > .field {
+      font: inherit;
+      font-size: 0.8125em;
+    }
+  }
+
+  & > .controls {
+    @include flex-centralize();
+
+    & > .button,
+    & > .current {
+      margin-left: 3.5px;
+      margin-right: 3.5px;
+    }
+
+    & > .button {
+      appearance: none;
+      padding: 8px 12px;
+      border: 0;
+      border-radius: 22px;
+      font: inherit;
+      font-size: 0.75em;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: #8e909c;
+      background-color: #fdfdfd;
+      box-shadow: 0 4px 11px 0 rgba(37, 44, 97, 0.15),
+        0 1px 3px 0 rgba(93, 100, 148, 0.2);
+      cursor: pointer;
+    }
+
+    & > .current {
+      margin: 0;
     }
   }
 }

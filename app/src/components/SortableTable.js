@@ -1,5 +1,5 @@
 import "./SortableTable.scss";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import identity from "../helpers/identity";
 
 const Sortment = Object.freeze({
@@ -34,6 +34,14 @@ function resolveCompare({ sort, value = identity } = {}) {
 function SortableTable({ rows, cols }) {
   const [sorter, setSorter] = useState(undefined);
   const [sortment, setSortment] = useState(Sortment.NONE);
+  const [page, setPage] = useState(0);
+  const [resultsPerPage, setResultsPerPage] = useState(10);
+
+  const pages = Math.ceil(rows.length / resultsPerPage);
+
+  useEffect(() => {
+    setPage(0);
+  }, [rows]);
 
   const sortRows = rows => {
     if (sortment === Sortment.NONE) {
@@ -74,47 +82,113 @@ function SortableTable({ rows, cols }) {
     );
   };
 
+  const paginateRows = rows =>
+    rows.slice(resultsPerPage * page, resultsPerPage * page + resultsPerPage);
+
+  const isFirst = page === 0;
+  const isLast = page === pages;
+
   return (
-    <table className="sortable-table">
-      <thead className="header">
-        <tr className="row">
-          {cols.map((col, index) => {
-            const isSorting = sorter === col;
-            const classNames = `cell ${isSorting ? "-sorting" : "-unsorting"}`;
-            return (
-              <th
-                key={index}
-                className={classNames}
-                onClick={onChangeFor(col)}
-                style={{ textAlign: col.align || "left" }}
-              >
-                <span className="label">{col.label}</span>
-
-                <span className="arrow">
-                  {isSorting && sortment === Sortment.ASCENDING ? "▲" : "▼"}
-                </span>
-              </th>
-            );
-          })}
-        </tr>
-      </thead>
-
-      <tbody className="content">
-        {sortRows(rows).map((row, index) => (
-          <tr className="row" key={index}>
+    <>
+      <table className="sortable-table">
+        <thead className="header">
+          <tr className="row">
             {cols.map((col, index) => {
-              const { render, value = identity, align = "left" } = col || {};
-
+              const isSorting = sorter === col;
+              const classNames = `cell ${
+                isSorting ? "-sorting" : "-unsorting"
+              }`;
               return (
-                <td key={index} style={{ textAlign: align }} className="cell">
-                  {render ? render({ row, index }) : value(row)}
-                </td>
+                <th
+                  key={index}
+                  className={classNames}
+                  onClick={onChangeFor(col)}
+                  style={{ textAlign: col.align || "left" }}
+                >
+                  <span className="label">{col.label}</span>
+
+                  <span className="arrow">
+                    {isSorting && sortment === Sortment.ASCENDING ? "▲" : "▼"}
+                  </span>
+                </th>
               );
             })}
           </tr>
-        ))}
-      </tbody>
-    </table>
+        </thead>
+
+        <tbody className="content">
+          {paginateRows(sortRows(rows)).map((row, index) => (
+            <tr className="row" key={index}>
+              {cols.map((col, index) => {
+                const { render, value = identity, align = "left" } = col || {};
+
+                return (
+                  <td key={index} style={{ textAlign: align }} className="cell">
+                    {render ? render({ row, index }) : value(row)}
+                  </td>
+                );
+              })}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+
+      <div className="pagination">
+        <div className="results">
+          <label className="label">Results per page</label>
+
+          <select
+            value={resultsPerPage}
+            className="field"
+            onChange={event => {
+              const value = +event.target.value;
+              setPage(0);
+              setResultsPerPage(value);
+            }}
+          >
+            {[10, 25, 50, 100].map(value => (
+              <option key={value} value={value}>
+                {value}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <div className="controls">
+          <button
+            className="button"
+            disabled={isFirst}
+            onClick={() => setPage(0)}
+          >
+            First
+          </button>
+          <button
+            className="button"
+            disabled={isFirst}
+            onClick={() => setPage(page - 1)}
+          >
+            Previous
+          </button>
+          <p className="current">
+            {page + 1} / {pages}
+          </p>
+          <button
+            className="button"
+            disabled={isLast}
+            onClick={() => setPage(page + 1)}
+          >
+            Next
+          </button>
+          <button
+            className="button"
+            disabled={isLast}
+            onClick={() => setPage(pages - 1)}
+          >
+            Last
+          </button>
+        </div>
+      </div>
+    </>
   );
 }
 

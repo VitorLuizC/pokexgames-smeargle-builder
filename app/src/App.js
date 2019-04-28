@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import moves from "./data.json";
 import SortableTable from "./components/SortableTable";
 import React, { useState } from "react";
