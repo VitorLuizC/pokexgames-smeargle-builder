@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pokexgames-smeargle-builder/precache-manifest.b26eaeb4c67d2221fe7d3b0e2938f7cf.js"
+  "/pokexgames-smeargle-builder/precache-manifest.04cc9d91533a3aebb06d9d866fe30b77.js"
 );
 
 workbox.clientsClaim();

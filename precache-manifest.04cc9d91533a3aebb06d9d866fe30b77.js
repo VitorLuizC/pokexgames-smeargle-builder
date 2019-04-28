@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pokexgames-smeargle-builder/static/media/Loupe.73d0609a.svg"
   },
   {
-    "revision": "e21045307bc3257b974bd60b2ebf19fc",
+    "revision": "8a2e6c88f8c3c49722689c63fcd3b161",
     "url": "/pokexgames-smeargle-builder/index.html"
   }
 ];
