@@ -3,29 +3,38 @@ import moves from "./data.json";
 import SortableTable from "./components/SortableTable";
 import React, { useState } from "react";
 import PokemonName from "./components/PokemonName";
+import normalize from "./helpers/normalize";
+import SearchField from "./components/SearchField";
 
-function App() {
-  const [term, setTerm] = useState("");
-
-  const filteredMoves = moves.filter(move => {
+/**
+ * Returns a filter function by term.
+ * @param {string} term
+ * @returns {(move: Move) => boolean}
+ */
+function filterBy(term) {
+  return move => {
     if (!term) {
       return true;
     }
 
-    return [move.name, move.type, move.pokemon.name].some(text =>
-      text.includes(term)
-    );
-  });
+    const targets = [move.name, move.type, move.pokemon.name].map(normalize);
+
+    return targets.some(target => target.includes(normalize(term)));
+  };
+}
+
+function App() {
+  const [term, setTerm] = useState("");
+
+  const filteredMoves = moves.filter(filterBy(term));
 
   return (
     <main className="App">
-      <form onSubmit={event => event.preventDefault()}>
-        <input
-          type="search"
-          value={term}
-          onChange={event => setTerm(event.target.value)}
-        />
-      </form>
+      <SearchField
+        value={term}
+        onChange={setTerm}
+        placeholder="Search by Pokémon, move name or even type."
+      />
 
       <SortableTable
         rows={filteredMoves}
