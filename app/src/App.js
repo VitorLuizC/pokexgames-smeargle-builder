@@ -1,8 +1,8 @@
 import "./App.css";
 import moves from "./data.json";
-import Table from "./Table";
+import SortableTable from "./components/SortableTable";
 import React, { useState } from "react";
-import PokemonIcon from "./components/PokemonIcon";
+import PokemonName from "./components/PokemonName";
 
 function App() {
   const [term, setTerm] = useState("");
@@ -27,11 +27,13 @@ function App() {
         />
       </form>
 
-      <Table
+      <SortableTable
+        rows={filteredMoves}
         cols={[
           {
             label: "Position",
             value: move => move.position,
+            align: "center",
             sort: (moveA, moveB) => {
               const toValue = move => {
                 const [, value = 10000] =
@@ -46,19 +48,11 @@ function App() {
             label: "Pokémon",
             value: move => move.pokemon.name,
             render: ({ row: move }) => (
-              <td key={"pokemon-" + move.id}>
-                <a
-                  href={move.pokemon.link}
-                  rel="noopener noreferrer"
-                  target="_blank"
-                >
-                  <PokemonIcon
-                    name={move.pokemon.name}
-                    icon={move.pokemon.icon}
-                  />
-                  <span className="name">{move.pokemon.name}</span>
-                </a>
-              </td>
+              <PokemonName
+                icon={move.pokemon.icon}
+                link={move.pokemon.link}
+                name={move.pokemon.name}
+              />
             )
           },
           {
@@ -71,19 +65,17 @@ function App() {
           },
           {
             label: "Cooldown",
+            align: "right",
             value: move => move.cooldown,
-            render: ({ row: move }) => (
-              <td key={"cooldown-" + move.id}>
-                {move.cooldown ? move.cooldown + "s" : "-"}
-              </td>
-            )
+            render: ({ row: move }) =>
+              move.cooldown ? move.cooldown + "s" : "-"
           },
           {
             label: "Level",
+            align: "right",
             value: move => move.level
           }
         ]}
-        rows={filteredMoves.slice(0, 50)}
       />
     </main>
   );
