@@ -86,7 +86,7 @@ function SortableTable({ rows, cols }) {
     rows.slice(resultsPerPage * page, resultsPerPage * page + resultsPerPage);
 
   const isFirst = page === 0;
-  const isLast = page === pages;
+  const isLast = page === pages - 1;
 
   return (
     <>
