@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7c845681d1cfa92c7733",
+    "revision": "47d22f8f5edcade5ebb8",
     "url": "/pokexgames-smeargle-builder/static/css/main.13125e8e.chunk.css"
   },
   {
-    "revision": "7c845681d1cfa92c7733",
-    "url": "/pokexgames-smeargle-builder/static/js/main.60959b2e.chunk.js"
+    "revision": "47d22f8f5edcade5ebb8",
+    "url": "/pokexgames-smeargle-builder/static/js/main.973c8424.chunk.js"
   },
   {
     "revision": "18072cce107ce648516d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pokexgames-smeargle-builder/static/media/Loupe.73d0609a.svg"
   },
   {
-    "revision": "8a2e6c88f8c3c49722689c63fcd3b161",
+    "revision": "d550921306703e6cb1c1e3252d0a05a9",
     "url": "/pokexgames-smeargle-builder/index.html"
   }
 ];
