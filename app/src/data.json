@@ -18021,7 +18021,7 @@
   },
   {
     "id": "0575",
-    "position": "m1",
+    "position": "M1",
     "name": "Swift",
     "type": "Normal",
     "cooldown": 10,
@@ -18034,7 +18034,7 @@
   },
   {
     "id": "0576",
-    "position": "m2",
+    "position": "M2",
     "name": "Bite",
     "type": "Dark",
     "cooldown": 15,
@@ -18047,7 +18047,7 @@
   },
   {
     "id": "0577",
-    "position": "m3",
+    "position": "M3",
     "name": "Psywave",
     "type": "Psychic",
     "cooldown": 10,
@@ -18060,7 +18060,7 @@
   },
   {
     "id": "0578",
-    "position": "m4",
+    "position": "M4",
     "name": "Psy Pulse",
     "type": "Psychic",
     "cooldown": 12,
@@ -18073,7 +18073,7 @@
   },
   {
     "id": "0579",
-    "position": "m5",
+    "position": "M5",
     "name": "Confusion",
     "type": "Psychic",
     "cooldown": 30,
@@ -18086,7 +18086,7 @@
   },
   {
     "id": "057a",
-    "position": "m6",
+    "position": "M6",
     "name": "Psychic",
     "type": "Psychic",
     "cooldown": 25,
@@ -18099,7 +18099,7 @@
   },
   {
     "id": "057b",
-    "position": "m7",
+    "position": "M7",
     "name": "Psyshock",
     "type": "Psychic",
     "cooldown": 30,
@@ -18112,7 +18112,7 @@
   },
   {
     "id": "057c",
-    "position": "m8",
+    "position": "M8",
     "name": "Trick Room",
     "type": "Psychic",
     "cooldown": 40,
@@ -18125,7 +18125,7 @@
   },
   {
     "id": "057d",
-    "position": "m9",
+    "position": "M9",
     "name": "Miracle Eye",
     "type": "Psychic",
     "cooldown": 15,
@@ -54809,7 +54809,7 @@
   },
   {
     "id": "10a0",
-    "position": "passive",
+    "position": "Passive",
     "name": "Rattled",
     "type": "Dark",
     "pokemon": {
@@ -61587,7 +61587,7 @@
   },
   {
     "id": "12ae",
-    "position": "passive",
+    "position": "Passive",
     "name": "Giant Force",
     "type": "Rock",
     "pokemon": {
@@ -65311,7 +65311,7 @@
     "id": "13cf",
     "position": "M1",
     "name": "Ice Shards",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65324,7 +65324,7 @@
     "id": "13d0",
     "position": "M2",
     "name": "Powder Snow",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65337,7 +65337,7 @@
     "id": "13d1",
     "position": "M3",
     "name": "Icy Wind",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 15,
     "level": 100,
     "pokemon": {
@@ -65350,7 +65350,7 @@
     "id": "13d2",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65363,7 +65363,7 @@
     "id": "13d3",
     "position": "M5",
     "name": "Aurora Beam",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 50,
     "level": 104,
     "pokemon": {
@@ -65376,7 +65376,7 @@
     "id": "13d4",
     "position": "M6",
     "name": "Substitute",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 32,
     "level": 100,
     "pokemon": {
@@ -65389,7 +65389,7 @@
     "id": "13d5",
     "position": "M7",
     "name": "Blizzard",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 70,
     "level": 108,
     "pokemon": {
@@ -65402,7 +65402,7 @@
     "id": "13d6",
     "position": "M8",
     "name": "Frozen Armor",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 30,
     "level": 100,
     "pokemon": {
@@ -65415,7 +65415,7 @@
     "id": "13d7",
     "position": "M9",
     "name": "Morph",
-    "type": "psychic",
+    "type": "Psychic",
     "cooldown": 1,
     "level": 100,
     "pokemon": {
@@ -65428,7 +65428,7 @@
     "id": "13d8",
     "position": "Passive",
     "name": "Levitate",
-    "type": "ghost",
+    "type": "Ghost",
     "pokemon": {
       "name": "Rotom Ice",
       "icon": "http://wiki.pokexgames.com/images/1/13/479-RotomGelo.png",
@@ -65439,7 +65439,7 @@
     "id": "13d9",
     "position": "M1",
     "name": "Thunder Shock",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65452,7 +65452,7 @@
     "id": "13da",
     "position": "M2",
     "name": "Bubbles",
-    "type": "water",
+    "type": "Water",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65465,7 +65465,7 @@
     "id": "13db",
     "position": "M3",
     "name": "Water Gun",
-    "type": "water",
+    "type": "Water",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65478,7 +65478,7 @@
     "id": "13dc",
     "position": "M4",
     "name": "Electro Ball",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65491,7 +65491,7 @@
     "id": "13dd",
     "position": "M5",
     "name": "Thunder Bolt",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65504,7 +65504,7 @@
     "id": "13de",
     "position": "M6",
     "name": "Thunder",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 60,
     "level": 100,
     "pokemon": {
@@ -65517,7 +65517,7 @@
     "id": "13df",
     "position": "M7",
     "name": "Electro Storm",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 60,
     "level": 110,
     "pokemon": {
@@ -65530,7 +65530,7 @@
     "id": "13e0",
     "position": "M8",
     "name": "Solar Beam",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 60,
     "level": 100,
     "pokemon": {
@@ -65543,7 +65543,7 @@
     "id": "13e1",
     "position": "Passive",
     "name": "Forecast",
-    "type": "normal",
+    "type": "Normal",
     "pokemon": {
       "name": "Castform (Water)",
       "icon": "http://wiki.pokexgames.com/images/6/69/351-Castform.png",
@@ -65554,7 +65554,7 @@
     "id": "13e2",
     "position": "M1",
     "name": "Shadow ball",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65567,7 +65567,7 @@
     "id": "13e3",
     "position": "M2",
     "name": "Ember",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65580,7 +65580,7 @@
     "id": "13e4",
     "position": "M3",
     "name": "Flamethrower",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65593,7 +65593,7 @@
     "id": "13e5",
     "position": "M4",
     "name": "Fireball",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65606,7 +65606,7 @@
     "id": "13e6",
     "position": "M5",
     "name": "Eruption",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 40,
     "level": 100,
     "pokemon": {
@@ -65619,7 +65619,7 @@
     "id": "13e7",
     "position": "M6",
     "name": "Fire Blast",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 40,
     "level": 100,
     "pokemon": {
@@ -65632,7 +65632,7 @@
     "id": "13e8",
     "position": "M7",
     "name": "Magma Storm",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 80,
     "level": 110,
     "pokemon": {
@@ -65645,7 +65645,7 @@
     "id": "13e9",
     "position": "M8",
     "name": "Solar Beam",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 60,
     "level": 100,
     "pokemon": {
@@ -65658,7 +65658,7 @@
     "id": "13ea",
     "position": "Passive",
     "name": "Forecast",
-    "type": "normal",
+    "type": "Normal",
     "pokemon": {
       "name": "Castform (Fire)",
       "icon": "http://wiki.pokexgames.com/images/6/69/351-Castform.png",
@@ -65669,7 +65669,7 @@
     "id": "13eb",
     "position": "M1",
     "name": "Thunder Shock",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65682,7 +65682,7 @@
     "id": "13ec",
     "position": "M2",
     "name": "Bubbles",
-    "type": "water",
+    "type": "Water",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65695,7 +65695,7 @@
     "id": "13ed",
     "position": "M3",
     "name": "Waterball",
-    "type": "water",
+    "type": "Water",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65708,7 +65708,7 @@
     "id": "13ee",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65721,7 +65721,7 @@
     "id": "13ef",
     "position": "M5",
     "name": "Brine",
-    "type": "water",
+    "type": "Water",
     "cooldown": 15,
     "level": 100,
     "pokemon": {
@@ -65734,7 +65734,7 @@
     "id": "13f0",
     "position": "M6",
     "name": "Substitute",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 32,
     "level": 100,
     "pokemon": {
@@ -65747,7 +65747,7 @@
     "id": "13f1",
     "position": "M7",
     "name": "Hydro Cannon",
-    "type": "water",
+    "type": "Water",
     "cooldown": 50,
     "level": 100,
     "pokemon": {
@@ -65760,7 +65760,7 @@
     "id": "13f2",
     "position": "M8",
     "name": "Surf",
-    "type": "water",
+    "type": "Water",
     "cooldown": 70,
     "level": 105,
     "pokemon": {
@@ -65773,7 +65773,7 @@
     "id": "13f3",
     "position": "M9",
     "name": "Morph",
-    "type": "psychic",
+    "type": "Psychic",
     "cooldown": 1,
     "level": 100,
     "pokemon": {
@@ -65786,7 +65786,7 @@
     "id": "13f4",
     "position": "Passive",
     "name": "Levitate",
-    "type": "ghost",
+    "type": "Ghost",
     "pokemon": {
       "name": "Rotom Water",
       "icon": "http://wiki.pokexgames.com/images/f/f1/479-RotomAgua.png",
@@ -65797,7 +65797,7 @@
     "id": "13f5",
     "position": "M1",
     "name": "Thunder Shock",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65810,7 +65810,7 @@
     "id": "13f6",
     "position": "M2",
     "name": "Ember",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65823,7 +65823,7 @@
     "id": "13f7",
     "position": "M3",
     "name": "Fireball",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65836,7 +65836,7 @@
     "id": "13f8",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65849,7 +65849,7 @@
     "id": "13f9",
     "position": "M5",
     "name": "Flame Burst",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 15,
     "level": 100,
     "pokemon": {
@@ -65862,7 +65862,7 @@
     "id": "13fa",
     "position": "M6",
     "name": "Substitute",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 32,
     "level": 100,
     "pokemon": {
@@ -65875,7 +65875,7 @@
     "id": "13fb",
     "position": "M7",
     "name": "Fire Blast",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 50,
     "level": 100,
     "pokemon": {
@@ -65888,7 +65888,7 @@
     "id": "13fc",
     "position": "M8",
     "name": "Blast Burn",
-    "type": "fire",
+    "type": "Fire",
     "cooldown": 70,
     "level": 115,
     "pokemon": {
@@ -65901,7 +65901,7 @@
     "id": "13fd",
     "position": "M9",
     "name": "Morph",
-    "type": "psychic",
+    "type": "Psychic",
     "cooldown": 1,
     "level": 100,
     "pokemon": {
@@ -65914,7 +65914,7 @@
     "id": "13fe",
     "position": "Passive",
     "name": "Levitate",
-    "type": "ghost",
+    "type": "Ghost",
     "pokemon": {
       "name": "Rotom Fire",
       "icon": "http://wiki.pokexgames.com/images/7/78/479-RotomFogo.png",
@@ -65925,7 +65925,7 @@
     "id": "13ff",
     "position": "M1",
     "name": "Thunder Shock",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65938,7 +65938,7 @@
     "id": "1400",
     "position": "M2",
     "name": "Razor Leaf",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -65951,7 +65951,7 @@
     "id": "1401",
     "position": "M3",
     "name": "Leaf Blade",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -65964,7 +65964,7 @@
     "id": "1402",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -65977,7 +65977,7 @@
     "id": "1403",
     "position": "M5",
     "name": "Bullet Seed",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 15,
     "level": 100,
     "pokemon": {
@@ -65990,7 +65990,7 @@
     "id": "1404",
     "position": "M6",
     "name": "Substitute",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 32,
     "level": 100,
     "pokemon": {
@@ -66003,7 +66003,7 @@
     "id": "1405",
     "position": "M7",
     "name": "Solar Beam",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 50,
     "level": 100,
     "pokemon": {
@@ -66016,7 +66016,7 @@
     "id": "1406",
     "position": "M8",
     "name": "Petal Blizzard",
-    "type": "grass",
+    "type": "Grass",
     "cooldown": 70,
     "level": 100,
     "pokemon": {
@@ -66029,7 +66029,7 @@
     "id": "1407",
     "position": "M9",
     "name": "Morph",
-    "type": "psychic",
+    "type": "Psychic",
     "cooldown": 1,
     "level": 100,
     "pokemon": {
@@ -66042,7 +66042,7 @@
     "id": "1408",
     "position": "Passive",
     "name": "Levitate",
-    "type": "ghost",
+    "type": "Ghost",
     "pokemon": {
       "name": "Rotom Grass",
       "icon": "http://wiki.pokexgames.com/images/d/d9/479-RotomPlanta.png",
@@ -66053,7 +66053,7 @@
     "id": "1409",
     "position": "M1",
     "name": "Thunder Shock",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -66066,7 +66066,7 @@
     "id": "140a",
     "position": "M2",
     "name": "Feather Dance",
-    "type": "flying",
+    "type": "Flying",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -66079,7 +66079,7 @@
     "id": "140b",
     "position": "M3",
     "name": "Air Cutter",
-    "type": "flying",
+    "type": "Flying",
     "cooldown": 20,
     "level": 100,
     "pokemon": {
@@ -66092,7 +66092,7 @@
     "id": "140c",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -66105,7 +66105,7 @@
     "id": "140d",
     "position": "M5",
     "name": "Air Slash",
-    "type": "flying",
+    "type": "Flying",
     "cooldown": 15,
     "level": 103,
     "pokemon": {
@@ -66118,7 +66118,7 @@
     "id": "140e",
     "position": "M6",
     "name": "Substitute",
-    "type": "ghost",
+    "type": "Ghost",
     "cooldown": 32,
     "level": 100,
     "pokemon": {
@@ -66131,7 +66131,7 @@
     "id": "140f",
     "position": "M7",
     "name": "Sky Attack",
-    "type": "flying",
+    "type": "Flying",
     "cooldown": 30,
     "level": 110,
     "pokemon": {
@@ -66144,7 +66144,7 @@
     "id": "1410",
     "position": "M8",
     "name": "Aerial Ace",
-    "type": "flying",
+    "type": "Flying",
     "cooldown": 70,
     "level": 104,
     "pokemon": {
@@ -66157,7 +66157,7 @@
     "id": "1411",
     "position": "M9",
     "name": "Morph",
-    "type": "psychic",
+    "type": "Psychic",
     "cooldown": 1,
     "level": 100,
     "pokemon": {
@@ -66170,7 +66170,7 @@
     "id": "1412",
     "position": "Passive",
     "name": "Levitate",
-    "type": "ghost",
+    "type": "Ghost",
     "pokemon": {
       "name": "Rotom Fly",
       "icon": "http://wiki.pokexgames.com/images/2/25/479-RotomVoador.png",
@@ -66181,7 +66181,7 @@
     "id": "1413",
     "position": "M1",
     "name": "Ice Shards",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 10,
     "level": 100,
     "pokemon": {
@@ -66194,7 +66194,7 @@
     "id": "1414",
     "position": "M2",
     "name": "Ice Beam",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 12,
     "level": 100,
     "pokemon": {
@@ -66207,7 +66207,7 @@
     "id": "1415",
     "position": "M3",
     "name": "Icy Wind",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -66220,7 +66220,7 @@
     "id": "1416",
     "position": "M4",
     "name": "Shockwave",
-    "type": "electric",
+    "type": "Electric",
     "cooldown": 25,
     "level": 100,
     "pokemon": {
@@ -66233,7 +66233,7 @@
     "id": "1417",
     "position": "M5",
     "name": "Powder Snow",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 40,
     "level": 100,
     "pokemon": {
@@ -66246,7 +66246,7 @@
     "id": "1418",
     "position": "M6",
     "name": "Aurora Beam",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 40,
     "level": 104,
     "pokemon": {
@@ -66259,7 +66259,7 @@
     "id": "1419",
     "position": "M7",
     "name": "Blizzard",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 80,
     "level": 106,
     "pokemon": {
@@ -66272,7 +66272,7 @@
     "id": "141a",
     "position": "M8",
     "name": "Ice Storm",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 60,
     "level": 105,
     "pokemon": {
@@ -66285,7 +66285,7 @@
     "id": "141b",
     "position": "M9",
     "name": "Frozen Armor",
-    "type": "ice",
+    "type": "Ice",
     "cooldown": 30,
     "level": 100,
     "pokemon": {
@@ -66298,7 +66298,7 @@
     "id": "141c",
     "position": "Passive",
     "name": "Forecast",
-    "type": "normal",
+    "type": "Normal",
     "pokemon": {
       "name": "Castform (Ice)",
       "icon": "http://wiki.pokexgames.com/images/6/69/351-Castform.png",
