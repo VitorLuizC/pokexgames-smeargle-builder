@@ -75,14 +75,15 @@ function App() {
           {
             label: "Cooldown",
             align: "right",
-            value: move => move.cooldown,
+            value: move => move.cooldown || 0,
             render: ({ row: move }) =>
               move.cooldown ? move.cooldown + "s" : "-"
           },
           {
             label: "Level",
             align: "right",
-            value: move => move.level
+            value: move => move.level || 0,
+            render: ({ row: move }) => (move.level ? move.level : "-")
           }
         ]}
       />
