@@ -60,25 +60,14 @@ function SortableTable({ rows, cols }) {
   };
 
   const onChangeFor = col => () => {
-    if (col !== sorter || sortment === Sortment.NONE) {
-      setSorter(col);
-      setSortment(Sortment.ASCENDING);
-      return;
-    }
-
-    if (sortment === Sortment.ASCENDING) {
-      setSortment(Sortment.DESCENDING);
-      return;
-    }
-
-    if (sortment === Sortment.DESCENDING) {
-      setSorter(undefined);
-      setSortment(Sortment.NONE);
-      return;
-    }
-
-    throw new Error(
-      "Unexpected `sorter` or `sortment` on `onChange` callback."
+    setPage(0);
+    setSorter(sortment === Sortment.DESCENDING ? undefined : col);
+    setSortment(
+      {
+        [Sortment.NONE]: Sortment.ASCENDING,
+        [Sortment.ASCENDING]: Sortment.DESCENDING,
+        [Sortment.DESCENDING]: Sortment.NONE
+      }[sortment]
     );
   };
 
