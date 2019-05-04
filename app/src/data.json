@@ -10138,7 +10138,8 @@
   },
   {
     "id": "0311",
-    "name": "passiva - Stunning Speed",
+    "position": "Passive",
+    "name": "Stunning Speed",
     "type": "Electric",
     "pokemon": {
       "name": "Jolteon",
@@ -13582,8 +13583,9 @@
   {
     "id": "041d",
     "position": "M6",
-    "name": "Dream Eater - 56",
+    "name": "Dream Eater",
     "type": "Psychic",
+    "level": 56,
     "cooldown": 35,
     "pokemon": {
       "name": "Hypno",
@@ -15014,9 +15016,10 @@
   {
     "id": "048c",
     "position": "M8",
-    "name": "Tongue Grap -  level 78",
+    "name": "Tongue Grap",
     "type": "Water",
     "cooldown": 60,
+    "level": 78,
     "pokemon": {
       "name": "Politoed",
       "icon": "http://wiki.pokexgames.com/images/c/c4/186-Politoed.png",
@@ -29446,7 +29449,8 @@
   },
   {
     "id": "08ed",
-    "name": "Passsive - Early Bird",
+    "position": "Passive",
+    "name": "Early Bird",
     "type": "Ghost",
     "pokemon": {
       "name": "Shiftry",
@@ -50877,9 +50881,10 @@
   {
     "id": "0f6f",
     "position": "M2",
-    "name": "Silver Wind - lvel 60",
+    "name": "Silver Wind",
     "type": "Bug",
     "cooldown": 10,
+    "level": 60,
     "pokemon": {
       "name": "Shiny Butterfree",
       "icon": "http://wiki.pokexgames.com/images/2/27/012-Sh_Butterfree.png",
@@ -51291,8 +51296,8 @@
   },
   {
     "id": "0f8f",
-    "position": "M9",
-    "name": "Passive - Foresight",
+    "position": "Passive",
+    "name": "Foresight",
     "type": "Fighting",
     "pokemon": {
       "name": "Champion Primeape",
@@ -53918,9 +53923,10 @@
   {
     "id": "105b",
     "position": "M8",
-    "name": "Tongue Grap -  level 158",
+    "name": "Tongue Grap",
     "type": "Water",
     "cooldown": 50,
+    "level": 158,
     "pokemon": {
       "name": "Shiny Politoed",
       "icon": "http://wiki.pokexgames.com/images/c/c2/186-shPolitoed.png",
@@ -62886,8 +62892,8 @@
   },
   {
     "id": "1313",
-    "position": "M9",
-    "name": "Passive - Magic Bounce",
+    "position": "Passive",
+    "name": "Magic Bounce",
     "type": "Ghost",
     "cooldown": 27,
     "pokemon": {
