@@ -1,14 +1,21 @@
 {
-  "main.css": "/pokexgames-smeargle-builder/static/css/main.13125e8e.chunk.css",
-  "main.js": "/pokexgames-smeargle-builder/static/js/main.cdfe11be.chunk.js",
-  "main.js.map": "/pokexgames-smeargle-builder/static/js/main.cdfe11be.chunk.js.map",
-  "runtime~main.js": "/pokexgames-smeargle-builder/static/js/runtime~main.828f3e73.js",
-  "runtime~main.js.map": "/pokexgames-smeargle-builder/static/js/runtime~main.828f3e73.js.map",
-  "static/js/2.398e932f.chunk.js": "/pokexgames-smeargle-builder/static/js/2.398e932f.chunk.js",
-  "static/js/2.398e932f.chunk.js.map": "/pokexgames-smeargle-builder/static/js/2.398e932f.chunk.js.map",
-  "index.html": "/pokexgames-smeargle-builder/index.html",
-  "precache-manifest.a5ca4c848c2d379b2947a07a7971f2f1.js": "/pokexgames-smeargle-builder/precache-manifest.a5ca4c848c2d379b2947a07a7971f2f1.js",
-  "service-worker.js": "/pokexgames-smeargle-builder/service-worker.js",
-  "static/css/main.13125e8e.chunk.css.map": "/pokexgames-smeargle-builder/static/css/main.13125e8e.chunk.css.map",
-  "static/media/Loupe.svg": "/pokexgames-smeargle-builder/static/media/Loupe.73d0609a.svg"
+  "files": {
+    "main.css": "/pokexgames-smeargle-builder/static/css/main.2acd07b4.chunk.css",
+    "main.js": "/pokexgames-smeargle-builder/static/js/main.5f9e2a6a.chunk.js",
+    "main.js.map": "/pokexgames-smeargle-builder/static/js/main.5f9e2a6a.chunk.js.map",
+    "runtime-main.js": "/pokexgames-smeargle-builder/static/js/runtime-main.7e5dbda5.js",
+    "runtime-main.js.map": "/pokexgames-smeargle-builder/static/js/runtime-main.7e5dbda5.js.map",
+    "static/js/2.ce26dd67.chunk.js": "/pokexgames-smeargle-builder/static/js/2.ce26dd67.chunk.js",
+    "static/js/2.ce26dd67.chunk.js.map": "/pokexgames-smeargle-builder/static/js/2.ce26dd67.chunk.js.map",
+    "index.html": "/pokexgames-smeargle-builder/index.html",
+    "static/css/main.2acd07b4.chunk.css.map": "/pokexgames-smeargle-builder/static/css/main.2acd07b4.chunk.css.map",
+    "static/js/2.ce26dd67.chunk.js.LICENSE.txt": "/pokexgames-smeargle-builder/static/js/2.ce26dd67.chunk.js.LICENSE.txt",
+    "static/media/Loupe.10f767fe.svg": "/pokexgames-smeargle-builder/static/media/Loupe.10f767fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e5dbda5.js",
+    "static/js/2.ce26dd67.chunk.js",
+    "static/css/main.2acd07b4.chunk.css",
+    "static/js/main.5f9e2a6a.chunk.js"
+  ]
 }
