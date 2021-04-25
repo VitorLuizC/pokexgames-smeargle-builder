@@ -1,23 +1,16 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Unversioned files and folders.
+# References at https://git-scm.com/docs/gitignore.
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
+# Test coverage folder.
+# Files and folders generated in test's coverage report.
 /coverage
 
-# production
+# Build folder.
+# Generated bundles, chunks and static files used in production.
 /build
 
-# misc
-.DS_Store
+# Environment variables.
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
