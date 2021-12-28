@@ -35,11 +35,11 @@ function resolvePosition(move) {
     showError(move, 'No position.');
   }
 
-  if (/m(\d+)/i.test(move.position)) {
+  if (/^m(\d+)$/i.test(move.position)) {
     return move.position.toUpperCase();
   }
 
-  if (/p(assive)?/i.test(move.position)) {
+  if (/^p(assive)?$/i.test(move.position)) {
     return 'Passive';
   }
 
@@ -52,8 +52,8 @@ function resolveName(move) {
     showError(move, 'No name.');
   }
 
-  if (/[^\(\)]+\( ?\d*s ?\)/i.test(move.name)) {
-    const [, name] = /([^\(\)]+)\( ?\d*s ?\)/.exec(move.name) ?? [];
+  if (/^[^\(\)]+\( ?\d*s ?\)$/i.test(move.name)) {
+    const [, name] = /^([^\(\)]+)\( ?\d*s ?\)$/.exec(move.name) ?? [];
 
     if (!name?.trim()) {
       showError(move, 'Can\'t separate name from cooldown.');
@@ -71,8 +71,8 @@ function resolveCooldown(move) {
     return null;
   }
 
-  if (/[^\(\)]+\( ?\d+s ?\)/i.test(move.name)) {
-    const [, cooldown] = /[^\(\)]+\( ?(\d+)s ?\)/i.exec(move.name) ?? [];
+  if (/^[^\(\)]+\( ?\d+s ?\)$/i.test(move.name)) {
+    const [, cooldown] = /^[^\(\)]+\( ?(\d+)s ?\)$/i.exec(move.name) ?? [];
 
     if (!cooldown) {
       showError(move, 'Can\'t separate cooldown from name.');
@@ -135,12 +135,12 @@ function resolveLevel(move) {
     return 200;
   }
 
-  if (/\d+/i.test(move.level)) {
+  if (/^\d+$/i.test(move.level)) {
     return parseInt(move.level, 10);
   }
 
-  if (/level \d+/i.test(move.level)) {
-    const [, level] = /level (\d+)/i.exec(move.level) ?? []
+  if (/^level \d+$/i.test(move.level)) {
+    const [, level] = /^level (\d+)$/i.exec(move.level) ?? []
 
     if (!level) {
       showError(move, 'Can\'t get level.');
@@ -172,13 +172,13 @@ const moves = data
     name: resolveName(move),
     type: move.type,
     cooldown: resolveCooldown(move),
-    statuses: move.status ?? [],
     level: resolveLevel(move),
     pokemon: {
       name: resolvePokemonName(move.pokemon),
       icon: move.pokemon.image.split('/').pop(),
       link: move.pokemon.url,
     },
+    statuses: move.status ?? [],
   }))
   .reduce((moves, moveA, index) => {
     const duplicated = moves.findIndex((moveB) => (
