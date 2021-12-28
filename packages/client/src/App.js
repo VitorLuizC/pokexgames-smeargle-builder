@@ -21,7 +21,7 @@ function filterBy(term) {
       return true;
     }
 
-    const targets = [move.position, move.name, move.type, move.pokemon.name].map(normalize);
+    const targets = [move.position, move.name, move.type, move.pokemon.name, ...move.statuses].map(normalize);
 
     return terms.every(term => {
       return targets.some(target => target.includes(term));
@@ -77,6 +77,10 @@ function App() {
           {
             label: "Type",
             value: move => move.type
+          },
+          {
+            label: "Statuses",
+            value: move => move.statuses.sort().join(", ")
           },
           {
             label: "Cooldown",

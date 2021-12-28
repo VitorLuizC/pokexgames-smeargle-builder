@@ -12,7 +12,12 @@ export default function PokemonName({ icon, link, name }) {
       className="pokemon-name"
     >
       <figure className="icon">
-        <img className="image" src={icon} alt={name} title={title} />
+        <img
+          className="image"
+          src={`https://VitorLuizC.github.io/pokexgames-smeargle-builder/images/${icon}`}
+          alt={name}
+          title={title}
+        />
       </figure>
 
       <span className="name">{name}</span>
