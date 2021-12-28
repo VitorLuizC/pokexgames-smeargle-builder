@@ -12,14 +12,20 @@ import SearchField from "./components/SearchField";
  * @returns {(move: Move) => boolean}
  */
 function filterBy(term) {
+  const terms = term.split(',').map(normalize);
+
+  console.log(terms);
+
   return move => {
-    if (!term) {
+    if (!terms.some(Boolean)) {
       return true;
     }
 
-    const targets = [move.name, move.type, move.pokemon.name].map(normalize);
+    const targets = [move.position, move.name, move.type, move.pokemon.name].map(normalize);
 
-    return targets.some(target => target.includes(normalize(term)));
+    return terms.every(term => {
+      return targets.some(target => target.includes(term));
+    });
   };
 }
 
