@@ -107,7 +107,7 @@
   {
     "name": "Poison Powder (20s)",
     "type": "Poison",
-    "level": "Shiny Bulbasaur",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Poison"
@@ -233,7 +233,7 @@
   {
     "name": "Rage (40s)",
     "type": "Dragon",
-    "level": "Alolan Dugtrio",
+    "level": "Level 45",
     "status": [
       "Self",
       "Buff"
@@ -341,7 +341,7 @@
   {
     "name": "Selfdestruction (80s)",
     "type": "Normal",
-    "level": "Shiny Electrode",
+    "level": "Level 40",
     "status": [
       "AOE",
       "Damage",
@@ -584,7 +584,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Alolan Meowth",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -1010,7 +1010,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Mega Venusaur",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -1131,7 +1131,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Alolan Persian",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -1409,7 +1409,7 @@
   {
     "name": "Hypnosis (50s)",
     "type": "Psychic",
-    "level": "Alolan Exeggutor",
+    "level": "Level 100",
     "status": [
       "Target",
       "Stun"
@@ -1519,7 +1519,7 @@
   {
     "name": "Rage (30s)",
     "type": "Dragon",
-    "level": "Shiny Charmander",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -1687,7 +1687,7 @@
   {
     "name": "Rage (40s)",
     "type": "Dragon",
-    "level": "Shiny Cubone",
+    "level": "Level 26",
     "status": [
       "Self",
       "Buff"
@@ -1935,7 +1935,7 @@
   {
     "name": "Stunning Confusion (50s)",
     "type": "Psychic",
-    "level": "Shiny Golduck",
+    "level": "Level 70",
     "status": [
       "AOE",
       "Damage"
@@ -2086,7 +2086,7 @@
   {
     "name": "Bone Spin",
     "type": "Ground",
-    "level": "Alolan Marowak",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -2429,7 +2429,7 @@
   {
     "name": "Ancient Fury (35s)",
     "type": "Normal",
-    "level": "Shiny Mega Charizard Y",
+    "level": "Level 87",
     "status": [
       "Self",
       "Buff"
@@ -2609,7 +2609,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Elite Hitmonlee",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -2715,7 +2715,7 @@
   {
     "name": "Harden (30s)",
     "type": "Normal",
-    "level": "Shiny Squirtle",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -2836,7 +2836,7 @@
   {
     "name": "Rage (20s)",
     "type": "Dragon",
-    "level": "Champion Primeape",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -2957,7 +2957,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Elite Hitmonchan",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -3219,7 +3219,7 @@
   {
     "name": "War Dog (55s)",
     "type": "Normal",
-    "level": "Shiny Growlithe",
+    "level": "Level 36",
     "status": [
       "Self",
       "Buff"
@@ -3510,7 +3510,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Shiny Mega Blastoise",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -3794,7 +3794,7 @@
   {
     "name": "War Dog (40s)",
     "type": "Normal",
-    "level": "Shiny Arcanine",
+    "level": "Level 106",
     "status": [
       "Self",
       "Buff"
@@ -3921,7 +3921,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Shiny Koffing",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -4184,7 +4184,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Shiny Weezing",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -4599,7 +4599,7 @@
   {
     "name": "Poison Powder (20s)",
     "type": "Poison",
-    "level": "Shiny Butterfree",
+    "level": "Level 30",
     "status": [
       "AOE",
       "Poison"
@@ -5143,7 +5143,7 @@
   {
     "name": "Smack Down (40s)",
     "type": "Rock",
-    "level": "Shiny Rhydon",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -5249,7 +5249,7 @@
   {
     "name": "Calm Mind (40s)",
     "type": "Psychic",
-    "level": "Light Abra",
+    "level": "Level 13",
     "status": [
       "Self",
       "Buff",
@@ -5694,7 +5694,7 @@
   {
     "name": "Mega Drain",
     "type": "Normal",
-    "level": "Shiny Tangela",
+    "level": null,
     "status": [
       "Passive",
       "Lifesteal"
@@ -5848,7 +5848,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Mega Beedrill",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -6132,7 +6132,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Mega Alakazam",
+    "level": "Level 1020",
     "status": [
       "Self",
       "Buff"
@@ -6285,7 +6285,7 @@
   {
     "name": "Groundshock",
     "type": "Normal",
-    "level": "Mega Kangaskhan",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -6497,7 +6497,7 @@
   {
     "name": "Waterball (25s)",
     "type": "Water",
-    "level": "Shiny Horsea",
+    "level": "Level 10",
     "status": [
       "Target",
       "AOE",
@@ -6693,7 +6693,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Shiny Machoke",
+    "level": "Level 48",
     "status": [
       "AOE",
       "Damage"
@@ -6829,7 +6829,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Shiny Seadra",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -7101,7 +7101,7 @@
   {
     "name": "Roost (60s)",
     "type": "Neutral",
-    "level": "Mega Pidgeot",
+    "level": "Level 85",
     "status": [
       "Self",
       "Healing"
@@ -7237,7 +7237,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Shiny Machamp",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -7328,7 +7328,7 @@
   {
     "name": "Aqua Tail (10s)",
     "type": "Water",
-    "level": "Shiny Goldeen",
+    "level": "Level 12",
     "status": [
       "Target",
       "Damage"
@@ -7388,7 +7388,7 @@
   {
     "name": "Super Fang (45s)",
     "type": "Normal",
-    "level": "Shiny Rattata",
+    "level": "Level 10",
     "status": [
       "Target",
       "Damage"
@@ -7675,7 +7675,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Alolan Raticate",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -7918,7 +7918,7 @@
   {
     "name": "Recover (100s)",
     "type": "Normal",
-    "level": "Shiny Staryu",
+    "level": "Level 25",
     "status": [
       "Self",
       "Healing"
@@ -8286,7 +8286,7 @@
   {
     "name": "Recover (80s)",
     "type": "Normal",
-    "level": "Shiny Starmie",
+    "level": "Level 85",
     "status": [
       "Self",
       "Healing"
@@ -8406,7 +8406,7 @@
   {
     "name": "Agility (25s)",
     "type": "Normal",
-    "level": "Shiny Fearow",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -8498,7 +8498,7 @@
   {
     "name": "Waterball (25s)",
     "type": "Water",
-    "level": "Shiny Tentacool",
+    "level": "Level 10",
     "status": [
       "Target",
       "AOE",
@@ -8637,7 +8637,7 @@
   {
     "name": "Miracle Eye",
     "type": "Psychic",
-    "level": "Shiny Mr.Mime",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -8882,7 +8882,7 @@
   {
     "name": "Liquid Ooze",
     "type": "Poison",
-    "level": "Shiny Tentacruel",
+    "level": "Level 88",
     "status": [
       "Passive",
       "Buff"
@@ -9049,7 +9049,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Shiny Scyther",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -9171,7 +9171,7 @@
   {
     "name": "Poison Jab (20s)",
     "type": "Poison",
-    "level": "Shiny Arbok",
+    "level": "Level 40",
     "status": [
       "Target",
       "Damage",
@@ -9543,7 +9543,7 @@
   {
     "name": "Heart Stomp (60s)",
     "type": "Psychic",
-    "level": "Shiny Jynx",
+    "level": "Level 88",
     "status": [
       "AOE",
       "Damage",
@@ -10074,7 +10074,7 @@
   {
     "name": "Static",
     "type": "Electric",
-    "level": "Shiny Electabuzz",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -10323,7 +10323,7 @@
   {
     "name": "Flash (40s)",
     "type": "Electric",
-    "level": "Alolan Raichu",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Buff"
@@ -10626,7 +10626,7 @@
   {
     "name": "Explosion ( 280s )",
     "type": "Normal",
-    "level": "Alolan Golem",
+    "level": "Level 120",
     "status": [
       "Damage",
       "AOE",
@@ -10941,7 +10941,7 @@
   {
     "name": "Flame Body",
     "type": "Fire",
-    "level": "Shiny Magmar",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -11098,7 +11098,7 @@
   {
     "name": "Stomp (30s)",
     "type": "Normal",
-    "level": "Shiny Ponyta",
+    "level": "Level 28",
     "status": [
       "AOE",
       "Damage",
@@ -11267,7 +11267,7 @@
   {
     "name": "Seismic Toss",
     "type": "Fighting",
-    "level": "Mega Pinsir",
+    "level": null,
     "status": [
       "Passive",
       "Damage",
@@ -11405,7 +11405,7 @@
   {
     "name": "Defense Curl (60s)",
     "type": "Normal",
-    "level": "Alolan Sandslash",
+    "level": "Level 70",
     "status": [
       "Self",
       "Buff"
@@ -11667,7 +11667,7 @@
   {
     "name": "Scary Face (40s)",
     "type": "Normal",
-    "level": "Shiny Tauros",
+    "level": "Level 52",
     "status": [
       "AOE",
       "Paralyze"
@@ -11743,7 +11743,7 @@
   {
     "name": "Poison Fang (25s)",
     "type": "Poison",
-    "level": "Shiny Nidoranfe",
+    "level": "Level 15",
     "status": [
       "Target",
       "Damage",
@@ -11851,7 +11851,7 @@
   {
     "name": "Splash (15s)",
     "type": "Water",
-    "level": "Shiny Magikarp",
+    "level": "Level 1",
     "status": [
       "AOE",
       "Damage"
@@ -12098,7 +12098,7 @@
   {
     "name": "Amnesia",
     "type": "Psychic",
-    "level": "Mega Slowbro",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -12440,7 +12440,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Red Gyarados",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -12561,7 +12561,7 @@
   {
     "name": "Fissure (50s)",
     "type": "Ground",
-    "level": "Shiny Nidoqueen",
+    "level": "Level 90",
     "status": [
       "AOE",
       "Damage"
@@ -12999,7 +12999,7 @@
   {
     "name": "Poison Fang (25s)",
     "type": "Poison",
-    "level": "Shiny Nidoranma",
+    "level": "Level 15",
     "status": [
       "Target",
       "Damage",
@@ -13123,7 +13123,7 @@
   {
     "name": "Gravity (40s)",
     "type": "Neutral",
-    "level": "Shiny Magneton",
+    "level": "Level 82",
     "status": [
       "AOE",
       "Damage",
@@ -13357,7 +13357,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Elite Farfetch'D",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -13447,7 +13447,7 @@
   {
     "name": "Great Love (40s)",
     "type": "Fairy",
-    "level": "Shiny Eevee",
+    "level": "Level 28",
     "status": [
       "AOE",
       "Damage",
@@ -13760,7 +13760,7 @@
   {
     "name": "Rage (30s)",
     "type": "Dragon",
-    "level": "Shiny Nidoking",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -13971,7 +13971,7 @@
   {
     "name": "Flip Turn (40s)",
     "type": "Water",
-    "level": "Shiny Vaporeon",
+    "level": "Level 82",
     "status": [
       "AOE",
       "Damage",
@@ -14214,7 +14214,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Shiny Dodrio",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -14488,7 +14488,7 @@
   {
     "name": "Stunning Speed",
     "type": "Electric",
-    "level": "Shiny Jolteon",
+    "level": null,
     "status": [
       "Passive",
       "Buff",
@@ -14841,7 +14841,7 @@
   {
     "name": "Hellfire Storm (50s)",
     "type": "Fire",
-    "level": "Shiny Flareon",
+    "level": "Level 84",
     "status": [
       "AOE",
       "Damage",
@@ -15209,7 +15209,7 @@
   {
     "name": "Restore (40s)",
     "type": "Psychic",
-    "level": "Giant Porygon",
+    "level": "Level 40",
     "status": [
       "Self",
       "Healing"
@@ -15492,7 +15492,7 @@
   {
     "name": "Burning Jealousy (40s)",
     "type": "Fire",
-    "level": "Alolan Ninetales",
+    "level": "Level 82",
     "status": [
       "AOE",
       "Damage",
@@ -15588,7 +15588,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Alolan Grimer",
+    "level": "Level 17",
     "status": [
       "Self",
       "Buff"
@@ -16098,7 +16098,7 @@
   {
     "name": "Poison Touch (40s)",
     "type": "Poison",
-    "level": "Alolan Muk",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Damage",
@@ -16923,7 +16923,7 @@
   {
     "name": "Lifesteal",
     "type": "Poison",
-    "level": "Shiny Zubat",
+    "level": null,
     "status": [
       "Passive",
       "Target",
@@ -17046,7 +17046,7 @@
   {
     "name": "Harden (30s)",
     "type": "Normal",
-    "level": "Shiny Cloyster",
+    "level": "Level 62",
     "status": [
       "Self",
       "Buff"
@@ -17306,7 +17306,7 @@
   {
     "name": "Lifestal",
     "type": "Poison",
-    "level": "Shiny Golbat",
+    "level": null,
     "status": [
       "Passive",
       "Target",
@@ -17413,7 +17413,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Shiny Gastly",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -17745,7 +17745,7 @@
   {
     "name": "Ancient Power (40s)",
     "type": "Rock",
-    "level": "Mega Aerodactyl",
+    "level": "Level 115",
     "status": [
       "AOE",
       "Damage"
@@ -17865,7 +17865,7 @@
   {
     "name": "Mega Drain",
     "type": "Normal",
-    "level": "Shiny Oddish",
+    "level": null,
     "status": [
       "Passive",
       "Lifesteal"
@@ -18016,7 +18016,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Shiny Haunter",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -18155,7 +18155,7 @@
   {
     "name": "Rest (80s)",
     "type": "Normal",
-    "level": "Shiny Snorlax",
+    "level": "Level 106",
     "status": [
       "Self",
       "Healing",
@@ -18646,7 +18646,7 @@
   {
     "name": "Scare Master",
     "type": "Ghost",
-    "level": "Mega Gengar",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -18829,7 +18829,7 @@
   {
     "name": "Mega Drain",
     "type": "Normal",
-    "level": "Shiny Vileplume",
+    "level": null,
     "status": [
       "Passive",
       "Lifesteal"
@@ -18949,7 +18949,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Big Onix",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -19040,7 +19040,7 @@
   {
     "name": "Sleep Powder (60s)",
     "type": "Grass",
-    "level": "Shiny Paras",
+    "level": "Level 8",
     "status": [
       "AOE",
       "Stun"
@@ -19316,7 +19316,7 @@
   {
     "name": "Spores Reaction",
     "type": "Poison",
-    "level": "Shiny Parasect",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -19454,7 +19454,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Shiny Hypno",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -19561,7 +19561,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Shiny Dratini",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -19683,7 +19683,7 @@
   {
     "name": "Stun Spore (40s)",
     "type": "Grass",
-    "level": "Shiny Venonat",
+    "level": "Level 24",
     "status": [
       "AOE",
       "Paralyze"
@@ -19761,7 +19761,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Shiny Krabby",
+    "level": "Level 13",
     "status": [
       "Self",
       "Buff"
@@ -19899,7 +19899,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Shiny Dragonair",
+    "level": null,
     "status": [
       "AOE",
       "Damage"
@@ -20036,7 +20036,7 @@
   {
     "name": "Poison Powder (20s)",
     "type": "Poison",
-    "level": "Shiny Venomoth",
+    "level": "Level 50",
     "status": [
       "AOE",
       "Poison"
@@ -20175,7 +20175,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Shiny Kingler",
+    "level": "Level 40",
     "status": [
       "Self",
       "Buff"
@@ -20509,7 +20509,7 @@
   {
     "name": "Multiscale",
     "type": "Dragon",
-    "level": "Shiny Dragonite",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -20587,7 +20587,7 @@
   {
     "name": "Earth Power (45s)",
     "type": "Ground",
-    "level": "Alolan Diglett",
+    "level": "Level 15",
     "status": [
       "AOE",
       "Damage"
@@ -20664,7 +20664,7 @@
   {
     "name": "Selfdestruction (80s)",
     "type": "Normal",
-    "level": "Shiny Voltorb",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Damage",
@@ -20787,7 +20787,7 @@
   {
     "name": "Light Screen (60s)",
     "type": "Neutral",
-    "level": "Shiny Chikorita",
+    "level": "Level 22",
     "status": [
       "AOE",
       "Buff",
@@ -20941,7 +20941,7 @@
   {
     "name": "Sturdy",
     "type": "Steel",
-    "level": "Golden Sudowoodo",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -21311,7 +21311,7 @@
   {
     "name": "Hypnosis (60s)",
     "type": "Psychic",
-    "level": "Shiny Politoed",
+    "level": "Level 70",
     "status": [
       "Target",
       "Stun"
@@ -21619,7 +21619,7 @@
   {
     "name": "Amnesia",
     "type": "Psychic",
-    "level": "Shiny Magcargo",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -21866,7 +21866,7 @@
   {
     "name": "Aromatherapy (40s)",
     "type": "Grass",
-    "level": "Shiny Meganium",
+    "level": "Level 84",
     "status": [
       "AOE",
       "Buff",
@@ -22206,7 +22206,7 @@
   {
     "name": "Defense Curl (30s)",
     "type": "Normal",
-    "level": "Shiny Cyndaquil",
+    "level": "Level 23",
     "status": [
       "Self",
       "Buff"
@@ -23062,7 +23062,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Shiny Corsola",
+    "level": "Level 55",
     "status": [
       "Self",
       "Buff"
@@ -23368,7 +23368,7 @@
   {
     "name": "Defense Curl (40s)",
     "type": "Normal",
-    "level": "Shiny Typhlosion",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -23656,7 +23656,7 @@
   {
     "name": "Agility (60s)",
     "type": "Flying",
-    "level": "Shiny Totodile",
+    "level": "Level 22",
     "status": [
       "Self",
       "Buff"
@@ -24208,7 +24208,7 @@
   {
     "name": "Rest (60s)",
     "type": "Normal",
-    "level": "Shiny Delibird",
+    "level": "Level 55",
     "status": [
       "Self",
       "Healing",
@@ -24512,7 +24512,7 @@
   {
     "name": "Agility (40s)",
     "type": "Flying",
-    "level": "Shiny Feraligatr",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -25918,7 +25918,7 @@
   {
     "name": "Roost (80s)",
     "type": "Neutral",
-    "level": "Shiny Hoothoot",
+    "level": "Level 25",
     "status": [
       "Self",
       "Healing"
@@ -26055,7 +26055,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Shiny Espeon",
+    "level": "Level 1020",
     "status": [
       "Self",
       "Buff"
@@ -26368,7 +26368,7 @@
   {
     "name": "Inferno (60s)",
     "type": "Fire",
-    "level": "Mega Houndoom",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -26506,7 +26506,7 @@
   {
     "name": "Roost (80s)",
     "type": "Neutral",
-    "level": "Shiny Noctowl",
+    "level": "Level 65",
     "status": [
       "Self",
       "Healing"
@@ -26628,7 +26628,7 @@
   {
     "name": "Payback (45s)",
     "type": "Dark",
-    "level": "Shiny Umbreon",
+    "level": "Level 82",
     "status": [
       "AOE",
       "Damage",
@@ -26936,7 +26936,7 @@
   {
     "name": "Dragon Dance (50s)",
     "type": "Normal",
-    "level": "Shiny Kingdra",
+    "level": "Level 106",
     "status": [
       "Self",
       "Buff",
@@ -27538,7 +27538,7 @@
   {
     "name": "Zen Mind",
     "type": "Normal",
-    "level": "Shiny Slowking",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -27678,7 +27678,7 @@
   {
     "name": "Defense Curl (60s)",
     "type": "Normal",
-    "level": "Shiny Donphan",
+    "level": "Level 86",
     "status": [
       "Self",
       "Buff"
@@ -28215,7 +28215,7 @@
   {
     "name": "Psychic (25s)",
     "type": "Psychic",
-    "level": "Shiny Ariados",
+    "level": "Level 47",
     "status": [
       "AOE",
       "Damage"
@@ -28262,7 +28262,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Unown Legion",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -28385,7 +28385,7 @@
   {
     "name": "Last Resort (25s)",
     "type": "Normal",
-    "level": "Shiny Stantler",
+    "level": "Level 56",
     "status": [
       "AOE",
       "Damage"
@@ -28539,7 +28539,7 @@
   {
     "name": "Lifesteal",
     "type": "Poison",
-    "level": "Shiny Crobat",
+    "level": "80",
     "status": [
       "Passive",
       "Target",
@@ -29280,7 +29280,7 @@
   {
     "name": "Bright Light (50s)",
     "type": "Electric",
-    "level": "Shiny Lanturn",
+    "level": "Level 90",
     "status": [
       "AOE",
       "Buff",
@@ -29481,7 +29481,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Elite Hitmontop",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -29603,7 +29603,7 @@
   {
     "name": "Electric Charge",
     "type": "Electric",
-    "level": "Dark Pichu",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -29727,7 +29727,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Shiny Forretress",
+    "level": "Level 82",
     "status": [
       "Self",
       "Buff"
@@ -30125,7 +30125,7 @@
   {
     "name": "Electricity",
     "type": "Electric",
-    "level": "Shiny Elekid",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -30469,7 +30469,7 @@
   {
     "name": "Lava Counter",
     "type": "Fire",
-    "level": "Shiny Magby",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -30836,7 +30836,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Golden Steelix",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -30977,7 +30977,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Miltank",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -31102,7 +31102,7 @@
   {
     "name": "Metronome (50s)",
     "type": "Fairy",
-    "level": "Shiny Togetic",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Damage"
@@ -31733,7 +31733,7 @@
   {
     "name": "Pixilate",
     "type": "Fairy",
-    "level": "Shiny Granbull",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -31886,7 +31886,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Shiny Xatu",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -31996,7 +31996,7 @@
   {
     "name": "Spike Skin (60s)",
     "type": "Poison",
-    "level": "Shiny Qwilfish",
+    "level": "Level 50",
     "status": [
       "AOE",
       "Damage",
@@ -32256,7 +32256,7 @@
   {
     "name": "Counter Claw",
     "type": "Bug",
-    "level": "Mega Scizor",
+    "level": "Level 108",
     "status": [
       "AOE",
       "Passive",
@@ -32487,7 +32487,7 @@
   {
     "name": "Rest (60s)",
     "type": "Normal",
-    "level": "Shiny Shuckle",
+    "level": "Level 44",
     "status": [
       "Self",
       "Healing",
@@ -32594,7 +32594,7 @@
   {
     "name": "Sandstorm (50s)",
     "type": "Rock",
-    "level": "Shiny Larvitar",
+    "level": "Level 35",
     "status": [
       "AOE",
       "Buff",
@@ -32733,7 +32733,7 @@
   {
     "name": "Water Compaction",
     "type": "Electric",
-    "level": "Shiny Mega Ampharos",
+    "level": "Level 80",
     "status": [
       "Passive",
       "Buff"
@@ -33021,7 +33021,7 @@
   {
     "name": "Sandstorm (40s)",
     "type": "Rock",
-    "level": "Shiny Pupitar",
+    "level": "Level 60",
     "status": [
       "AOE",
       "Buff",
@@ -33480,7 +33480,7 @@
   {
     "name": "Sandstorm (45s)",
     "type": "Rock",
-    "level": "Mega Tyranitar",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Buff",
@@ -33589,7 +33589,7 @@
   {
     "name": "Defense Curl (40s)",
     "type": "Normal",
-    "level": "Shiny Marill",
+    "level": "Level 28",
     "status": [
       "Self",
       "Buff"
@@ -33836,7 +33836,7 @@
   {
     "name": "Defense Curl (40s)",
     "type": "Normal",
-    "level": "Shiny Azumarill",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -34084,7 +34084,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Baby Treecko",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -34863,7 +34863,7 @@
   {
     "name": "Swords Dance (40s)",
     "type": "Neutral",
-    "level": "Mega Sceptile",
+    "level": "Level 85",
     "status": [
       "Self",
       "Buff"
@@ -35289,7 +35289,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Shiny Torchic",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -35642,7 +35642,7 @@
   {
     "name": "Recover (120s)",
     "type": "Normal",
-    "level": "Mega Sableye",
+    "level": "Level 65",
     "status": [
       "Self",
       "Healing"
@@ -35980,7 +35980,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Mega Blaziken",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -36288,7 +36288,7 @@
   {
     "name": "Clear Pile",
     "type": "Normal",
-    "level": "Shiny Mawile",
+    "level": null,
     "status": [
       "Passive",
       "Debuff"
@@ -36426,7 +36426,7 @@
   {
     "name": "Earth Power (30s)",
     "type": "Ground",
-    "level": "Shiny Mudkip",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Damage"
@@ -38178,7 +38178,7 @@
   {
     "name": "Protect (40s)",
     "type": "Normal",
-    "level": "Mega Swampert",
+    "level": "Level 40",
     "status": [
       "Self",
       "Buff"
@@ -38334,7 +38334,7 @@
   {
     "name": "Sturdy",
     "type": "Steel",
-    "level": "Mega Aggron",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -39375,7 +39375,7 @@
   {
     "name": "Insomnia",
     "type": "Ghost",
-    "level": "Mega Banette",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -39984,7 +39984,7 @@
   {
     "name": "Magnetic Flux (60s)",
     "type": "Electric",
-    "level": "Mega Manectric",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Buff",
@@ -40217,7 +40217,7 @@
   {
     "name": "Wish (150s)",
     "type": "Normal",
-    "level": "Minun and Plusle",
+    "level": "Level 30",
     "status": [
       "AOE",
       "Healing",
@@ -40650,7 +40650,7 @@
   {
     "name": "Wish (150s)",
     "type": "Normal",
-    "level": "Minun and Plusle",
+    "level": "Level 30",
     "status": [
       "AOE",
       "Healing",
@@ -40776,7 +40776,7 @@
   {
     "name": "Quiver Dance (70s)",
     "type": "Bug",
-    "level": "Shiny Beautifly",
+    "level": "Level 57",
     "status": [
       "Self",
       "Buff",
@@ -40946,7 +40946,7 @@
   {
     "name": "Justified",
     "type": "Dark",
-    "level": "Mega Absol",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -41787,7 +41787,7 @@
   {
     "name": "Absolute Zero",
     "type": "Ice",
-    "level": "Mega Glalie",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -43955,7 +43955,7 @@
   {
     "name": "Solid Rock",
     "type": "Rock",
-    "level": "Mega Camerupt",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -44806,7 +44806,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Grumpig",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -45360,7 +45360,7 @@
   {
     "name": "Scary Face (40s)",
     "type": "Normal",
-    "level": "Mega Salamence",
+    "level": "Level 102",
     "status": [
       "AOE",
       "Paralyze"
@@ -45638,7 +45638,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Shiny Mega Gardevoir",
+    "level": "Level 1010",
     "status": [
       "Self",
       "Buff"
@@ -46707,7 +46707,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Mega Metagross",
+    "level": "Level 950",
     "status": [
       "Self",
       "Buff"
@@ -47681,7 +47681,7 @@
   {
     "name": "Cloud Nine",
     "type": "Normal",
-    "level": "Mega Altaria",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -49613,7 +49613,7 @@
   {
     "name": "Sandstorm (60s)",
     "type": "Rock",
-    "level": "Shiny Whiscash",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Buff",
@@ -50170,7 +50170,7 @@
   {
     "name": "Afraid of Needles",
     "type": "Normal",
-    "level": "Minun",
+    "level": null,
     "status": [
       "Passive",
       "Buff",
@@ -50588,7 +50588,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Hariyama",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -51281,7 +51281,7 @@
   {
     "name": "Snow Warning",
     "type": "Ice",
-    "level": "Mega Abomasnow",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -51619,7 +51619,7 @@
   {
     "name": "Fossilized Shell",
     "type": "Rock",
-    "level": "Shiny Torterra",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -51944,7 +51944,7 @@
   {
     "name": "Tri-Vision",
     "type": "Neutral",
-    "level": "Shiny Magnezone",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -52052,7 +52052,7 @@
   {
     "name": "Double Team (10s)",
     "type": "Normal",
-    "level": "Shiny Buneary",
+    "level": "Level 32",
     "status": [
       "Self",
       "Buff"
@@ -52426,7 +52426,7 @@
   {
     "name": "Jungle Fury",
     "type": "Normal",
-    "level": "Shiny Infernape",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -52548,7 +52548,7 @@
   {
     "name": "Double Team (30s)",
     "type": "Normal",
-    "level": "Shiny Mega Lopunny",
+    "level": "Level 82",
     "status": [
       "Self",
       "Buff"
@@ -53311,7 +53311,7 @@
   {
     "name": "Insomnia",
     "type": "Ghost",
-    "level": "Shiny Honchkrow",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -53955,7 +53955,7 @@
   {
     "name": "Water Sport",
     "type": "Water",
-    "level": "Shiny Empoleon",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -55498,7 +55498,7 @@
   {
     "name": "Protect (40s)",
     "type": "Normal",
-    "level": "Shiny Leafeon",
+    "level": "Level 102",
     "status": [
       "Self",
       "Buff"
@@ -55639,7 +55639,7 @@
   {
     "name": "Ice Body",
     "type": "Ice",
-    "level": "Shiny Glaceon",
+    "level": null,
     "status": [
       "Passive",
       "Healing"
@@ -56249,7 +56249,7 @@
   {
     "name": "Iron Body",
     "type": "Steel",
-    "level": "Shiny Bronzong",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -56578,7 +56578,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Shiny Kricketune",
+    "level": "Level 80",
     "status": [
       "Buff"
     ],
@@ -56888,7 +56888,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Shiny Gallade",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -57227,7 +57227,7 @@
   {
     "name": "Guts",
     "type": "Flying",
-    "level": "Shiny Luxray",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -58191,7 +58191,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Rotom Ice",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -58650,7 +58650,7 @@
   {
     "name": "Laser Focus (40s)",
     "type": "Normal",
-    "level": "Shiny Rampardos",
+    "level": "Level 105",
     "status": [
       "Self",
       "Buff"
@@ -59169,7 +59169,7 @@
   {
     "name": "Thick Fat",
     "type": "Neutral",
-    "level": "Shiny Munchlax",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -59634,7 +59634,7 @@
   {
     "name": "Bug Bite (10s)",
     "type": "Bug",
-    "level": "Burmy Steel",
+    "level": "Level 10",
     "status": [
       "Target",
       "Damage"
@@ -59968,7 +59968,7 @@
   {
     "name": "Aura Shield",
     "type": "Steel",
-    "level": "Shiny Mega Lucario",
+    "level": "Level 80",
     "status": [
       "Passive",
       "Buff"
@@ -60213,7 +60213,7 @@
   {
     "name": "Quiver Dance (40s)",
     "type": "Bug",
-    "level": "Wormadam Steel",
+    "level": "Level 87",
     "status": [
       "Self",
       "Buff",
@@ -61429,7 +61429,7 @@
   {
     "name": "Magnet Rise",
     "type": "Electric",
-    "level": "Shiny Pachirisu",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -62513,7 +62513,7 @@
   {
     "name": "Shift Gear (40s)",
     "type": "Steel",
-    "level": "Shiny Klinklang",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -62825,7 +62825,7 @@
   {
     "name": "Protect (40s)",
     "type": "Normal",
-    "level": "Shiny Eelektross",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -67275,7 +67275,7 @@
   {
     "name": "Clear Pile",
     "type": "Normal",
-    "level": "Shiny Heatmor",
+    "level": "Level 86",
     "status": [
       "Debuff"
     ],
@@ -69406,7 +69406,7 @@
   {
     "name": "Discharge (60s)",
     "type": "Electric",
-    "level": "Giant Galvantula",
+    "level": "Level 85",
     "status": [
       "AOE",
       "Damage"
@@ -69917,7 +69917,7 @@
   {
     "name": "Pixilate",
     "type": "Fairy",
-    "level": "Shiny Sylveon",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -70394,7 +70394,7 @@
   {
     "name": "Agility (30s)",
     "type": "Normal",
-    "level": "Shiny Bunnelby",
+    "level": "Level 30",
     "status": [
       "Self",
       "Buff"
@@ -72087,7 +72087,7 @@
   {
     "name": "Horn Leech (40s)",
     "type": "Grass",
-    "level": "Shiny Gogoat",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -72985,7 +72985,7 @@
   {
     "name": "Agility (30s)",
     "type": "Normal",
-    "level": "Shiny Cinderace",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -73153,7 +73153,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Mega Venusaur",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -73305,7 +73305,7 @@
   {
     "name": "Ancient Armor (40s)",
     "type": "Normal",
-    "level": "Shiny Mega Blastoise",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -73647,7 +73647,7 @@
   {
     "name": "Ancient Fury (40s)",
     "type": "Normal",
-    "level": "Shiny Mega Charizard Y",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -73802,7 +73802,7 @@
   {
     "name": "Hydropump ( 60s )",
     "type": "Water",
-    "level": "Gyarados",
+    "level": "Level 128",
     "status": [
       "AOE",
       "Damage"
@@ -73960,7 +73960,7 @@
   {
     "name": "Flame Body",
     "type": "Fire",
-    "level": "Magmar",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -74068,7 +74068,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Rattata",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -74224,7 +74224,7 @@
   {
     "name": "Hydropump ( 80s )",
     "type": "Water",
-    "level": "Tentacool",
+    "level": "Level 30",
     "status": [
       "AOE",
       "Damage"
@@ -74379,7 +74379,7 @@
   {
     "name": "Liquid Ooze",
     "type": "Poison",
-    "level": "Tentacruel",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -74533,7 +74533,7 @@
   {
     "name": "Sleep Powder ( 45s )",
     "type": "Grass",
-    "level": "Tangela",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Stun"
@@ -74903,7 +74903,7 @@
   {
     "name": "Scared Master",
     "type": "Ghost",
-    "level": "Mega Gengar",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -75058,7 +75058,7 @@
   {
     "name": "Heart Stomp (50s)",
     "type": "Psychic",
-    "level": "Jynx",
+    "level": "Level 108",
     "status": [
       "AOE",
       "Damage",
@@ -75342,7 +75342,7 @@
   {
     "name": "Static",
     "type": "Electric",
-    "level": "Electabuzz",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -75482,7 +75482,7 @@
   {
     "name": "Poison Powder (20s)",
     "type": "Poison",
-    "level": "Venonat",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Poison"
@@ -75620,7 +75620,7 @@
   {
     "name": "Poison Powder ( 30s )",
     "type": "Poison",
-    "level": "Venomoth",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Poison"
@@ -75758,7 +75758,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Dratini",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -75912,7 +75912,7 @@
   {
     "name": "Dragon Dance ( 40s )",
     "type": "Normal",
-    "level": "Dragonair",
+    "level": "Level 106",
     "status": [
       "Self",
       "Buff",
@@ -76034,7 +76034,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Alolan Raticate",
+    "level": "Level 65",
     "status": [
       "Passive",
       "Buff"
@@ -76172,7 +76172,7 @@
   {
     "name": "Selfdestruction ( 80s )",
     "type": "Normal",
-    "level": "Electrode",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -76331,7 +76331,7 @@
   {
     "name": "War Dog ( 55s )",
     "type": "Normal",
-    "level": "Growlithe",
+    "level": "Level 36",
     "status": [
       "Self",
       "Buff"
@@ -76647,7 +76647,7 @@
   {
     "name": "War Dog (40s)",
     "type": "Normal",
-    "level": "Arcanine",
+    "level": "Level 106",
     "status": [
       "Self",
       "Buff"
@@ -76800,7 +76800,7 @@
   {
     "name": "Mega Drain",
     "type": "Normal",
-    "level": "Oddish",
+    "level": null,
     "status": [
       "Passive",
       "Lifesteal"
@@ -76891,7 +76891,7 @@
   {
     "name": "Sleep Powder ( 60s )",
     "type": "Grass",
-    "level": "Paras",
+    "level": "Level 17",
     "status": [
       "AOE",
       "Stun"
@@ -77074,7 +77074,7 @@
   {
     "name": "Spores Reaction",
     "type": "Poison",
-    "level": "Parasect",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -77209,7 +77209,7 @@
   {
     "name": "Camouflage ( 50s )",
     "type": "Steel",
-    "level": "Onix",
+    "level": "Level 104",
     "status": [
       "AOE",
       "Buff"
@@ -77348,7 +77348,7 @@
   {
     "name": "Harden ( 40s )",
     "type": "Normal",
-    "level": "Krabby",
+    "level": "Level 10",
     "status": [
       "Self",
       "Buff"
@@ -77487,7 +77487,7 @@
   {
     "name": "Harden ( 30s )",
     "type": "Normal",
-    "level": "Kingler",
+    "level": "Level 60",
     "status": [
       "Self",
       "Buff"
@@ -77609,7 +77609,7 @@
   {
     "name": "Lifesteal",
     "type": "Poison",
-    "level": "Zubat",
+    "level": null,
     "status": [
       "Passive",
       "Target",
@@ -77764,7 +77764,7 @@
   {
     "name": "Lifestal",
     "type": "Poison",
-    "level": "Golbat",
+    "level": null,
     "status": [
       "Passive",
       "Target",
@@ -77919,7 +77919,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Mega Beedrill",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -78056,7 +78056,7 @@
   {
     "name": "Tri-Vision",
     "type": "Neutral",
-    "level": "Magneton",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -78161,7 +78161,7 @@
   {
     "name": "Recover ( 100s )",
     "type": "Normal",
-    "level": "Staryu",
+    "level": "Level 55",
     "status": [
       "Self",
       "Healing"
@@ -78283,7 +78283,7 @@
   {
     "name": "Wish",
     "type": "Normal",
-    "level": "Eevee",
+    "level": null,
     "status": [
       "Passive",
       "Healing"
@@ -78448,7 +78448,7 @@
   {
     "name": "Illusion ( 15s )",
     "type": "Neutral",
-    "level": "Porygon",
+    "level": "Level 200",
     "status": [
       "Self",
       "Buff"
@@ -78570,7 +78570,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Gastly",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -78694,7 +78694,7 @@
   {
     "name": "Morning Sun ( 80s )",
     "type": "Normal",
-    "level": "Ponyta",
+    "level": "Level 60",
     "status": [
       "AOE",
       "Healing",
@@ -78863,7 +78863,7 @@
   {
     "name": "Anger Point ( 40s )",
     "type": "Normal",
-    "level": "Tauros",
+    "level": "Level 105",
     "status": [
       "Self",
       "Healing"
@@ -78999,7 +78999,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Machamp",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -79137,7 +79137,7 @@
   {
     "name": "Brave Bird (50s)",
     "type": "Flying",
-    "level": "Dodrio",
+    "level": "Level 100",
     "status": [
       "Target",
       "Damage",
@@ -79455,7 +79455,7 @@
   {
     "name": "Safeguard (40s)",
     "type": "Normal",
-    "level": "Alolan Ninetales",
+    "level": "Level 110",
     "status": [
       "Self",
       "Buff",
@@ -79607,7 +79607,7 @@
   {
     "name": "Bone Spin",
     "type": "Ground",
-    "level": "Cubone",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -79760,7 +79760,7 @@
   {
     "name": "Bone Spin",
     "type": "Ground",
-    "level": "Alolan Marowak",
+    "level": null,
     "status": [
       "AOE",
       "Passive",
@@ -79888,7 +79888,7 @@
   {
     "name": "Harden (40s)",
     "type": "Normal",
-    "level": "Alolan Grimer",
+    "level": "Level 35",
     "status": [
       "Self",
       "Buff"
@@ -80029,7 +80029,7 @@
   {
     "name": "Acid Armor ( 45s )",
     "type": "Poison",
-    "level": "Alolan Muk",
+    "level": "Level 108",
     "status": [
       "Self",
       "Buff",
@@ -80338,7 +80338,7 @@
   {
     "name": "Play Dead",
     "type": "Fairy",
-    "level": "Mega Alakazam",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -80613,7 +80613,7 @@
   {
     "name": "Electric Storm (50s)",
     "type": "Electric",
-    "level": "Alolan Raichu",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -80781,7 +80781,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Scyther",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -81053,7 +81053,7 @@
   {
     "name": "Roost (60s)",
     "type": "Neutral",
-    "level": "Mega Pidgeot",
+    "level": "Level 105",
     "status": [
       "Self",
       "Healing"
@@ -81207,7 +81207,7 @@
   {
     "name": "Seismic Toss",
     "type": "Fighting",
-    "level": "Mega Pinsir",
+    "level": null,
     "status": [
       "Passive",
       "Damage",
@@ -81253,7 +81253,7 @@
   {
     "name": "Waterfall ( 35s )",
     "type": "Water",
-    "level": "Shiny Giant Magikarp",
+    "level": "Level 30",
     "status": [
       "AOE",
       "Damage"
@@ -81531,7 +81531,7 @@
   {
     "name": "Drill Run (30s)",
     "type": "Ground",
-    "level": "Rhydon",
+    "level": "Level 107",
     "status": [
       "AOE",
       "Damage"
@@ -81639,7 +81639,7 @@
   {
     "name": "Selfdestruction ( 80s )",
     "type": "Normal",
-    "level": "Voltorb",
+    "level": "Level 10",
     "status": [
       "AOE",
       "Damage",
@@ -81778,7 +81778,7 @@
   {
     "name": "Poison Powder ( 15s )",
     "type": "Poison",
-    "level": "Butterfree",
+    "level": "Level 60",
     "status": [
       "AOE",
       "Poison"
@@ -82023,7 +82023,7 @@
   {
     "name": "Brave Bird ( 50s )",
     "type": "Flying",
-    "level": "Farfetch'D",
+    "level": "Level 100",
     "status": [
       "Target",
       "Damage",
@@ -82146,7 +82146,7 @@
   {
     "name": "Aqua Ring ( 80s )",
     "type": "Water",
-    "level": "Goldeen",
+    "level": "Level 40",
     "status": [
       "Self",
       "Healing",
@@ -82283,7 +82283,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Primeape",
+    "level": "Level 80",
     "status": [
       "Buff"
     ],
@@ -82433,7 +82433,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Haunter",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -82572,7 +82572,7 @@
   {
     "name": "Eating Grapefruit (60s)",
     "type": "Normal",
-    "level": "Shiny Snorlax",
+    "level": "Level 206",
     "status": [
       "Self",
       "Healing",
@@ -82725,7 +82725,7 @@
   {
     "name": "Giant Force",
     "type": "Rock",
-    "level": "Onix",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -82863,7 +82863,7 @@
   {
     "name": "Rattled",
     "type": "Water",
-    "level": "Magikarp",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -82999,7 +82999,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Horsea",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -83135,7 +83135,7 @@
   {
     "name": "Dragon Rage",
     "type": "Dragon",
-    "level": "Seadra",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -83413,7 +83413,7 @@
   {
     "name": "Miracle Eye (10s)",
     "type": "Psychic",
-    "level": "Mr.Mime",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -83697,7 +83697,7 @@
   {
     "name": "Snake Sense",
     "type": "Normal",
-    "level": "Arbok",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -83817,7 +83817,7 @@
   {
     "name": "Agility (25s)",
     "type": "Flying",
-    "level": "Machoke",
+    "level": "Level 78",
     "status": [
       "Self",
       "Buff"
@@ -84098,7 +84098,7 @@
   {
     "name": "Selfdestruction (280s)",
     "type": "Normal",
-    "level": "Weezing",
+    "level": "Level 108",
     "status": [
       "AOE",
       "Damage",
@@ -84237,7 +84237,7 @@
   {
     "name": "Recover ( 70s )",
     "type": "Normal",
-    "level": "Starmie",
+    "level": "Level 105",
     "status": [
       "Self",
       "Healing"
@@ -84360,7 +84360,7 @@
   {
     "name": "Stunning Confusion ( 50s)",
     "type": "Psychic",
-    "level": "Golduck",
+    "level": "Level 80",
     "status": [
       "AOE",
       "Damage"
@@ -84516,7 +84516,7 @@
   {
     "name": "Snore",
     "type": "Normal",
-    "level": "Big Snorlax",
+    "level": null,
     "status": [
       "Passive",
       "Debuff",
@@ -84669,7 +84669,7 @@
   {
     "name": "Dragon Flight (22s)",
     "type": "Dragon",
-    "level": "Dragonite",
+    "level": "Level 200",
     "status": [
       "Target",
       "Damage",
@@ -85152,7 +85152,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Koffing",
+    "level": "Level 60",
     "status": [
       "Buff"
     ],
@@ -85286,7 +85286,7 @@
   {
     "name": "Poison Powder (20s)",
     "type": "Poison",
-    "level": "Bulbasaur",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Poison"
@@ -85411,7 +85411,7 @@
   {
     "name": "Rage (30s)",
     "type": "Dragon",
-    "level": "Charmander",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -85532,7 +85532,7 @@
   {
     "name": "Harden (30s)",
     "type": "Normal",
-    "level": "Squirtle",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -85624,7 +85624,7 @@
   {
     "name": "Dig ( 40s )",
     "type": "Ground",
-    "level": "Nidoranfe",
+    "level": "Level 12",
     "status": [
       "Damage",
       "AOE",
@@ -85719,7 +85719,7 @@
   {
     "name": "Cross Poison ( 40s )",
     "type": "Poison",
-    "level": "Nidoranma",
+    "level": "Level 12",
     "status": [
       "Damage",
       "AOE",
@@ -86028,7 +86028,7 @@
   {
     "name": "Naturial Guardian",
     "type": "Grass",
-    "level": "Meganium",
+    "level": "Level 106",
     "status": [
       "Passive",
       "Buff"
@@ -86330,7 +86330,7 @@
   {
     "name": "Agility (40s)",
     "type": "Flying",
-    "level": "Feraligatr",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -86607,7 +86607,7 @@
   {
     "name": "Inferno (50s)",
     "type": "Fire",
-    "level": "Typhlosion",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -86760,7 +86760,7 @@
   {
     "name": "Web Rain ( 60s )",
     "type": "Bug",
-    "level": "Ariados",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -86900,7 +86900,7 @@
   {
     "name": "Night Daze ( 60s )",
     "type": "Dark",
-    "level": "Umbreon",
+    "level": "Level 106",
     "status": [
       "AOE",
       "Damage"
@@ -87039,7 +87039,7 @@
   {
     "name": "Stampede ( 50s )",
     "type": "Normal",
-    "level": "Stantler",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage",
@@ -87344,7 +87344,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Espeon",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -87500,7 +87500,7 @@
   {
     "name": "Hypnosis (50s)",
     "type": "Psychic",
-    "level": "Politoed",
+    "level": "Level 100",
     "status": [
       "Target",
       "Stun"
@@ -87803,7 +87803,7 @@
   {
     "name": "Bright Light (50s)",
     "type": "Electric",
-    "level": "Lanturn",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Buff",
@@ -88077,7 +88077,7 @@
   {
     "name": "Electro Field (50s)",
     "type": "Electric",
-    "level": "Shiny Mega Ampharos",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -88230,7 +88230,7 @@
   {
     "name": "Lifesteal",
     "type": "Poison",
-    "level": "Crobat",
+    "level": null,
     "status": [
       "Passive",
       "Target",
@@ -88563,7 +88563,7 @@
   {
     "name": "Amnesia",
     "type": "Psychic",
-    "level": "Magcargo",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -88683,7 +88683,7 @@
   {
     "name": "Sandstorm (40s)",
     "type": "Rock",
-    "level": "Larvitar",
+    "level": "Level 40",
     "status": [
       "AOE",
       "Buff",
@@ -88824,7 +88824,7 @@
   {
     "name": "Sandstorm ( 40s )",
     "type": "Rock",
-    "level": "Pupitar",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Buff",
@@ -88978,7 +88978,7 @@
   {
     "name": "Fearless",
     "type": "Dark",
-    "level": "Xatu",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -89116,7 +89116,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Unown",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -89368,7 +89368,7 @@
   {
     "name": "Minimize (40s)",
     "type": "Normal",
-    "level": "Qwilfish",
+    "level": "Level 108",
     "status": [
       "Self",
       "Buff"
@@ -89488,7 +89488,7 @@
   {
     "name": "Harden (30s)",
     "type": "Normal",
-    "level": "Corsola",
+    "level": "Level 65",
     "status": [
       "Self",
       "Buff"
@@ -89629,7 +89629,7 @@
   {
     "name": "Agility (40s)",
     "type": "Psychic",
-    "level": "Delibird",
+    "level": "Level 80",
     "status": [
       "Self",
       "Buff"
@@ -89750,7 +89750,7 @@
   {
     "name": "Tinted Lens",
     "type": "Psychic",
-    "level": "Hoothoot",
+    "level": null,
     "status": [
       "Buff"
     ],
@@ -90057,7 +90057,7 @@
   {
     "name": "Tinted Lens",
     "type": "Psychic",
-    "level": "Noctowl",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -90169,7 +90169,7 @@
   {
     "name": "Sandstorm (60s)",
     "type": "Rock",
-    "level": "Shuckle",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Buff",
@@ -90336,7 +90336,7 @@
   {
     "name": "Golden Armor",
     "type": "Rock",
-    "level": "Mega Steelix",
+    "level": null,
     "status": [
       "Passive",
       "Damage"
@@ -90636,7 +90636,7 @@
   {
     "name": "Play Dead",
     "type": "Fairy",
-    "level": "Granbull",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -90792,7 +90792,7 @@
   {
     "name": "Giga Impact (45s)",
     "type": "Normal",
-    "level": "Miltank",
+    "level": "Level 205",
     "status": [
       "AOE",
       "Damage",
@@ -90992,7 +90992,7 @@
   {
     "name": "Waterfall (35s)",
     "type": "Water",
-    "level": "Kingdra",
+    "level": "Level 200",
     "status": [
       "AOE",
       "Damage"
@@ -91116,7 +91116,7 @@
   {
     "name": "Rock Wrecker (50s)",
     "type": "Rock",
-    "level": "Sudowoodo",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage"
@@ -91269,7 +91269,7 @@
   {
     "name": "Snarl",
     "type": "Dark",
-    "level": "Pichu",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -91420,7 +91420,7 @@
   {
     "name": "Sandstorm ( 40s )",
     "type": "Rock",
-    "level": "Mega Tyranitar",
+    "level": "Level 200",
     "status": [
       "AOE",
       "Slow",
@@ -91559,7 +91559,7 @@
   {
     "name": "Light Screen (60s)",
     "type": "Neutral",
-    "level": "Chikorita",
+    "level": "Level 22",
     "status": [
       "AOE",
       "Buff",
@@ -91682,7 +91682,7 @@
   {
     "name": "Defense Curl (30s)",
     "type": "Normal",
-    "level": "Cyndaquil",
+    "level": "Level 23",
     "status": [
       "Self",
       "Buff"
@@ -91803,7 +91803,7 @@
   {
     "name": "Agility (60s)",
     "type": "Flying",
-    "level": "Totodile",
+    "level": "Level 22",
     "status": [
       "Self",
       "Buff"
@@ -91910,7 +91910,7 @@
   {
     "name": "Defense Curl ( 40s )",
     "type": "Normal",
-    "level": "Marill",
+    "level": "Level 28",
     "status": [
       "Self",
       "Buff"
@@ -92084,7 +92084,7 @@
   {
     "name": "Zen Mind",
     "type": "Normal",
-    "level": "Slowking",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Debuff"
@@ -92222,7 +92222,7 @@
   {
     "name": "Defense Curl (40s)",
     "type": "Normal",
-    "level": "Azumarill",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -92379,7 +92379,7 @@
   {
     "name": "Ancient Wrath (45s)",
     "type": "Electric",
-    "level": "Mega Manectric",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -92518,7 +92518,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Mega Sceptile",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -92670,7 +92670,7 @@
   {
     "name": "Trace",
     "type": "Fairy",
-    "level": "Shiny Mega Gardevoir",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -92840,7 +92840,7 @@
   {
     "name": "Trick Fat",
     "type": "Rock",
-    "level": "Hariyama",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -92977,7 +92977,7 @@
   {
     "name": "Shadow Hold (50s)",
     "type": "Steel",
-    "level": "Mega Mawile",
+    "level": "Level 103",
     "status": [
       "AOE",
       "Damage"
@@ -93121,7 +93121,7 @@
   {
     "name": "Inferno (60s)",
     "type": "Fire",
-    "level": "Torkoal",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -93246,7 +93246,7 @@
   {
     "name": "Hydropump (80s)",
     "type": "Water",
-    "level": "Whiscash",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage"
@@ -93491,7 +93491,7 @@
   {
     "name": "Quiver Dance (40s)",
     "type": "Bug",
-    "level": "Beautifly",
+    "level": "Level 87",
     "status": [
       "Self",
       "Buff",
@@ -93615,7 +93615,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Treecko",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -93739,7 +93739,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Torchic",
+    "level": "Level 20",
     "status": [
       "Self",
       "Buff"
@@ -93863,7 +93863,7 @@
   {
     "name": "Earth Power (30s)",
     "type": "Ground",
-    "level": "Mudkip",
+    "level": "Level 20",
     "status": [
       "AOE",
       "Damage"
@@ -94033,7 +94033,7 @@
   {
     "name": "Chlorophyll",
     "type": "Grass",
-    "level": "Leafeon",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -94193,7 +94193,7 @@
   {
     "name": "Ice Body ( s )",
     "type": "Ice",
-    "level": "Glaceon",
+    "level": "Level",
     "status": [
       "Passive",
       "Healing"
@@ -94363,7 +94363,7 @@
   {
     "name": "Heatproof",
     "type": "Fire",
-    "level": "Bronzong",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -94530,7 +94530,7 @@
   {
     "name": "Shell Armor",
     "type": "Grass",
-    "level": "Torterra",
+    "level": null,
     "status": [
       "Passive"
     ],
@@ -94699,7 +94699,7 @@
   {
     "name": "Jungle Fury",
     "type": "Normal",
-    "level": "Infernape",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -94835,7 +94835,7 @@
   {
     "name": "Water Sport",
     "type": "Water",
-    "level": "Empoleon",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -94957,7 +94957,7 @@
   {
     "name": "Discharge (60s)",
     "type": "Electric",
-    "level": "Luxray",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage",
@@ -95096,7 +95096,7 @@
   {
     "name": "Shadow Rush (50s)",
     "type": "Rock",
-    "level": "Rampardos",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage"
@@ -95232,7 +95232,7 @@
   {
     "name": "Shadow Bolt (50s)",
     "type": "Electric",
-    "level": "Pachirisu",
+    "level": "Level 112",
     "status": [
       "AOE",
       "Damage",
@@ -95386,7 +95386,7 @@
   {
     "name": "Tailwind (35s)",
     "type": "Flying",
-    "level": "Honchkrow",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -95539,7 +95539,7 @@
   {
     "name": "Tri-Vision",
     "type": "Neutral",
-    "level": "Magnezone",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -95676,7 +95676,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Gallade",
+    "level": "Level 1010",
     "status": [
       "Self",
       "Buff"
@@ -95831,7 +95831,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Kricketune",
+    "level": "Level 100",
     "status": [
       "Buff"
     ],
@@ -95953,7 +95953,7 @@
   {
     "name": "Double Team (10s)",
     "type": "Normal",
-    "level": "Buneary",
+    "level": "Level 52",
     "status": [
       "Self",
       "Buff"
@@ -96273,7 +96273,7 @@
   {
     "name": "Fearless Spirit",
     "type": "Ghost",
-    "level": "Froslass",
+    "level": "Level 100",
     "status": [
       "Buff",
       "Passive"
@@ -96587,7 +96587,7 @@
   {
     "name": "Levitate",
     "type": "Ghost",
-    "level": "Rotom Ice",
+    "level": "Level 100",
     "status": [
       "Buff",
       "Passive"
@@ -96725,7 +96725,7 @@
   {
     "name": "Web Rain ( 60s )",
     "type": "Bug",
-    "level": "Galvantula",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -96853,7 +96853,7 @@
   {
     "name": "Discharge (65s)",
     "type": "Electric",
-    "level": "Eelektross",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage"
@@ -96993,7 +96993,7 @@
   {
     "name": "Shadow Fire (50s)",
     "type": "Fire",
-    "level": "Heatmor",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -97270,7 +97270,7 @@
   {
     "name": "Iron Defense (40s)",
     "type": "Steel",
-    "level": "Klinklang",
+    "level": "Level 104",
     "status": [
       "Self",
       "Buff"
@@ -97882,7 +97882,7 @@
   {
     "name": "Pixilate",
     "type": "Fairy",
-    "level": "Sylveon",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -98022,7 +98022,7 @@
   {
     "name": "Horn Leech (40s)",
     "type": "Grass",
-    "level": "Gogoat",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -98134,7 +98134,7 @@
   {
     "name": "Agility (30s)",
     "type": "Normal",
-    "level": "Bunnelby",
+    "level": "Level 50",
     "status": [
       "Self",
       "Buff"
@@ -99128,7 +99128,7 @@
   {
     "name": "Libero (1s)",
     "type": "Fire",
-    "level": "Cinderace",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -99433,7 +99433,7 @@
   {
     "name": "Acid Armor (40s)",
     "type": "Poison",
-    "level": "Vaporeon",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff",
@@ -99715,7 +99715,7 @@
   {
     "name": "Magma Storm ( 50s )",
     "type": "Fire",
-    "level": "Flareon",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -99992,7 +99992,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Jolteon",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -100178,7 +100178,7 @@
   {
     "name": "Mega Drain",
     "type": "Grass",
-    "level": "Vileplume",
+    "level": null,
     "status": [
       "Passive",
       "Lifesteal"
@@ -100330,7 +100330,7 @@
   {
     "name": "Explosion ( 120s )",
     "type": "Normal",
-    "level": "Alolan Golem",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -100647,7 +100647,7 @@
   {
     "name": "Rage ( 30s )",
     "type": "Dragon",
-    "level": "Nidoking",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -100798,7 +100798,7 @@
   {
     "name": "Tough Spirit",
     "type": "Fighting",
-    "level": "Hitmontop",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -100934,7 +100934,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Hitmonchan",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -101058,7 +101058,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Hitmonlee",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -101332,7 +101332,7 @@
   {
     "name": "Aerilate",
     "type": "Neutral",
-    "level": "Fearow",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -101667,7 +101667,7 @@
   {
     "name": "Counter Punch",
     "type": "Fighting",
-    "level": "Shiny Mega Lucario",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -101852,7 +101852,7 @@
   {
     "name": "Hypnotist",
     "type": "Psychic",
-    "level": "Hypno",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -102020,7 +102020,7 @@
   {
     "name": "Morph (1s)",
     "type": "Psychic",
-    "level": "Light Abra",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff",
@@ -102189,7 +102189,7 @@
   {
     "name": "Morph (1s)",
     "type": "Psychic",
-    "level": "Dark Abra",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff",
@@ -102474,7 +102474,7 @@
   {
     "name": "Sunny Day (40s)",
     "type": "Fire",
-    "level": "Magby",
+    "level": "Level 112",
     "status": [
       "AOE",
       "Buff",
@@ -102720,7 +102720,7 @@
   {
     "name": "Discharge (60s)",
     "type": "Electric",
-    "level": "Elekid",
+    "level": "Level 105",
     "status": [
       "AOE",
       "Damage"
@@ -102856,7 +102856,7 @@
   {
     "name": "Scary Face (35s)",
     "type": "Normal",
-    "level": "Donphan",
+    "level": "Level 102",
     "status": [
       "AOE",
       "Paralyze"
@@ -103100,7 +103100,7 @@
   {
     "name": "Earthquake (50s)",
     "type": "Ground",
-    "level": "Nidoqueen",
+    "level": "Level 106",
     "status": [
       "AOE",
       "Damage"
@@ -103241,7 +103241,7 @@
   {
     "name": "Sky Camouflage (50s)",
     "type": "Fairy",
-    "level": "Togetic",
+    "level": "Level 100",
     "status": [
       "Self",
       "AOE",
@@ -103394,7 +103394,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Grumpig",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -103521,7 +103521,7 @@
   {
     "name": "Tail Whip (40s)",
     "type": "Water",
-    "level": "Cloyster",
+    "level": "Level 100",
     "status": [
       "Target",
       "Buff"
@@ -103679,7 +103679,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Munchlax",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -103819,7 +103819,7 @@
   {
     "name": "Autotomize (25s)",
     "type": "Steel",
-    "level": "Forretress",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -104095,7 +104095,7 @@
   {
     "name": "Insomnia",
     "type": "Ghost",
-    "level": "Wormadam Steel",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -104405,7 +104405,7 @@
   {
     "name": "Metal Cocoon",
     "type": "Steel",
-    "level": "Wormadam",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -104572,7 +104572,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Mega Venusaur",
+    "level": "⠀",
     "status": [
       "Passive",
       "Buff"
@@ -104747,7 +104747,7 @@
   {
     "name": "Draco Meteor ( 40s )",
     "type": "Dragon",
-    "level": "Shiny Mega Charizard Y",
+    "level": "Level 215",
     "status": [
       "Damage",
       "AOE"
@@ -104901,7 +104901,7 @@
   {
     "name": "Sunny Day (50s)",
     "type": "Fire",
-    "level": "Mega Charizard Y",
+    "level": "Level 212",
     "status": [
       "AOE",
       "Paralyze"
@@ -105068,7 +105068,7 @@
   {
     "name": "Focus Blast (40s)",
     "type": "Fighting",
-    "level": "Mega Blastoise",
+    "level": "Level 200",
     "status": [
       "AOE",
       "Damage"
@@ -105222,7 +105222,7 @@
   {
     "name": "Outrage ( 50s )",
     "type": "Dragon",
-    "level": "Mega Ampharos",
+    "level": "Level 215",
     "status": [
       "Damage",
       "AOE",
@@ -105396,7 +105396,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Shiny Gardevoir",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -105567,7 +105567,7 @@
   {
     "name": "Foresight",
     "type": "Fighting",
-    "level": "Mega Lucario",
+    "level": "Level",
     "status": [
       "Passive",
       "Buff"
@@ -105706,7 +105706,7 @@
   {
     "name": "Tough Spirit P",
     "type": "Fighting",
-    "level": "Mega Lopunny",
+    "level": "Level 112",
     "status": [
       "Self",
       "Debuff"
@@ -106040,7 +106040,7 @@
   {
     "name": "Thick Fat",
     "type": "Rock",
-    "level": "Shiny Mega Venusaur",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -106195,7 +106195,7 @@
   {
     "name": "Stealth Rock (40s)",
     "type": "Neutral",
-    "level": "Golden Steelix",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -106378,7 +106378,7 @@
   {
     "name": "Cloud Nine",
     "type": "Normal",
-    "level": "Altaria",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -106535,7 +106535,7 @@
   {
     "name": "Outrage (60s)",
     "type": "Dragon",
-    "level": "Shiny Mega Charizard Y",
+    "level": "Level 115",
     "status": [
       "AOE",
       "Damage",
@@ -106692,7 +106692,7 @@
   {
     "name": "Iron Defense (50s)",
     "type": "Steel",
-    "level": "Scizor",
+    "level": "Level 104",
     "status": [
       "Self",
       "Buff"
@@ -106846,7 +106846,7 @@
   {
     "name": "Cursed Body",
     "type": "Ghost",
-    "level": "Banette",
+    "level": null,
     "status": [
       "Passive",
       "Silence"
@@ -107017,7 +107017,7 @@
   {
     "name": "Solar Power",
     "type": "Fire",
-    "level": "Shiny Mega Charizard Y",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -107154,7 +107154,7 @@
   {
     "name": "Swords Dance (60s)",
     "type": "Normal",
-    "level": "Absol",
+    "level": "Level 108",
     "status": [
       "Self",
       "Buff"
@@ -107304,7 +107304,7 @@
   {
     "name": "Rain Dance (50s)",
     "type": "Water",
-    "level": "Shiny Mega Blastoise",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Buff",
@@ -107462,7 +107462,7 @@
   {
     "name": "Inferno (80s)",
     "type": "Fire",
-    "level": "Houndoom",
+    "level": "Level 110",
     "status": [
       "AOE",
       "Damage",
@@ -107603,7 +107603,7 @@
   {
     "name": "Shadow Chill (50s)",
     "type": "Ice",
-    "level": "Glalie",
+    "level": "Level 106",
     "status": [
       "AOE",
       "Damage"
@@ -107771,7 +107771,7 @@
   {
     "name": "Adaptability",
     "type": "Normal",
-    "level": "Shiny Beedrill",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -107939,7 +107939,7 @@
   {
     "name": "Giant Force",
     "type": "Rock",
-    "level": "Shiny Tyranitar",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -108093,7 +108093,7 @@
   {
     "name": "Scary Face (40s)",
     "type": "Normal",
-    "level": "Salamence",
+    "level": "Level 102",
     "status": [
       "AOE",
       "Paralyze"
@@ -108244,7 +108244,7 @@
   {
     "name": "Aerilate",
     "type": "Fairy",
-    "level": "Shiny Pidgeot",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -108401,7 +108401,7 @@
   {
     "name": "Agility (30s)",
     "type": "Flying",
-    "level": "Shiny Sceptile",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -108586,7 +108586,7 @@
   {
     "name": "Miracle Eye (15s)",
     "type": "Psychic",
-    "level": "Metagross",
+    "level": "Level 1000",
     "status": [
       "Self",
       "Buff"
@@ -108727,7 +108727,7 @@
   {
     "name": "Restore (100s)",
     "type": "Psychic",
-    "level": "Shiny Alakazam",
+    "level": "Level 105",
     "status": [
       "Self",
       "Healing"
@@ -108898,7 +108898,7 @@
   {
     "name": "Evasion",
     "type": "Normal",
-    "level": "Blaziken",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -109069,7 +109069,7 @@
   {
     "name": "Regenerator",
     "type": "Water",
-    "level": "Slowbro",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -109409,7 +109409,7 @@
   {
     "name": "Swift Swim",
     "type": "Water",
-    "level": "Swampert",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff"
@@ -109562,7 +109562,7 @@
   {
     "name": "Shadow Tag (60s)",
     "type": "Ghost",
-    "level": "Shiny Gengar",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -109874,7 +109874,7 @@
   {
     "name": "Trace",
     "type": "Fairy",
-    "level": "Shiny Mega Gardevoir",
+    "level": null,
     "status": [
       "Buff",
       "Passive"
@@ -110043,7 +110043,7 @@
   {
     "name": "Parental Bond",
     "type": "Normal",
-    "level": "Kangaskhan",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -110180,7 +110180,7 @@
   {
     "name": "Magic Bounce (27s)",
     "type": "Dark",
-    "level": "Sableye",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Buff",
@@ -110485,7 +110485,7 @@
   {
     "name": "Tough Spirit",
     "type": "Fighting",
-    "level": "Shiny Mega Lopunny",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -110670,7 +110670,7 @@
   {
     "name": "Counter Punch",
     "type": "Fighting",
-    "level": "Shiny Pinsir",
+    "level": null,
     "status": [
       "Passive",
       "AOE",
@@ -111009,7 +111009,7 @@
   {
     "name": "Pixilate",
     "type": "Fairy",
-    "level": "Shiny Mawile",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -111387,7 +111387,7 @@
   {
     "name": "Sand Veil",
     "type": "Ground",
-    "level": "Garchomp",
+    "level": "Level 100",
     "status": [
       "Buff",
       "Passive"
@@ -111701,7 +111701,7 @@
   {
     "name": "Dragon Rage (40s)",
     "type": "Dragon",
-    "level": "Red Gyarados",
+    "level": "Level 115",
     "status": [
       "Buff",
       "Passive"
@@ -111857,7 +111857,7 @@
   {
     "name": "Sturdy",
     "type": "Steel",
-    "level": "Aggron",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -112199,7 +112199,7 @@
   {
     "name": "Aura Shield",
     "type": "Steel",
-    "level": "Shiny Mega Lucario",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -112380,7 +112380,7 @@
   {
     "name": "Giga Impact (45s)",
     "type": "Gardestrike",
-    "level": "Aerodactyl",
+    "level": "Level 205",
     "status": [
       "AOE",
       "Damage",
@@ -112520,7 +112520,7 @@
   {
     "name": "Snow Warning",
     "type": "Ice",
-    "level": "Abomasnow",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -112656,7 +112656,7 @@
   {
     "name": "Electric Terrain (60s)",
     "type": "Electric",
-    "level": "Shiny Manectric",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Self",
@@ -113032,7 +113032,7 @@
   {
     "name": "Fairy Melody",
     "type": "Normal",
-    "level": "Audino",
+    "level": "Level 107",
     "status": [
       "Buff",
       "Passive"
@@ -113343,7 +113343,7 @@
   {
     "name": "Outrage (50s)",
     "type": "Dragon",
-    "level": "Shiny Mega Ampharos",
+    "level": "Level 115",
     "status": [
       "AOE",
       "Damage",
@@ -113684,7 +113684,7 @@
   {
     "name": "Solid Rock",
     "type": "Rock",
-    "level": "Camerupt",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -113837,7 +113837,7 @@
   {
     "name": "Safeguard (50s)",
     "type": "Normal",
-    "level": "Shiny Ninetales",
+    "level": "Level 110",
     "status": [
       "Self",
       "Buff",
@@ -113974,7 +113974,7 @@
   {
     "name": "Swords Dance (40s)",
     "type": "Normal",
-    "level": "Shiny Raticate",
+    "level": "Level 108",
     "status": [
       "Self",
       "Buff"
@@ -114051,7 +114051,7 @@
   {
     "name": "Flash Cannon (50s)",
     "type": "Steel",
-    "level": "Diglett",
+    "level": "Level 18",
     "status": [
       "AOE",
       "Damage"
@@ -114203,7 +114203,7 @@
   {
     "name": "Automize (30s)",
     "type": "Steel",
-    "level": "Shiny Golem",
+    "level": "Level 100",
     "status": [
       "Self",
       "Buff"
@@ -114482,7 +114482,7 @@
   {
     "name": "Eyes of Heaven (10s)",
     "type": "Fairy",
-    "level": "Shiny Raichu",
+    "level": "Level 110",
     "status": [
       "Self",
       "Buff",
@@ -114623,7 +114623,7 @@
   {
     "name": "Arena Trap",
     "type": "Ground",
-    "level": "Dugtrio",
+    "level": "Level 80",
     "status": [
       "Passive",
       "Buff"
@@ -114718,7 +114718,7 @@
   {
     "name": "Harden (30s)",
     "type": "Normal",
-    "level": "Shiny Grimer",
+    "level": "Level 17",
     "status": [
       "Self",
       "Buff"
@@ -114823,7 +114823,7 @@
   {
     "name": "Fury",
     "type": "Dragon",
-    "level": "Meowth",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -115104,7 +115104,7 @@
   {
     "name": "Poison Touch (40s)",
     "type": "Poison",
-    "level": "Shiny Muk",
+    "level": "Level 100",
     "status": [
       "AOE",
       "Damage",
@@ -115259,7 +115259,7 @@
   {
     "name": "Safeguard (40s)",
     "type": "Normal",
-    "level": "Sandslash",
+    "level": "Level 110",
     "status": [
       "Self",
       "Buff",
@@ -115562,7 +115562,7 @@
   {
     "name": "Fur Coat",
     "type": "Dark",
-    "level": "Persian",
+    "level": null,
     "status": [
       "Passive",
       "Buff"
@@ -115715,7 +115715,7 @@
   {
     "name": "Dragon Tree (s)",
     "type": "Water",
-    "level": "Exeggutor",
+    "level": "Level 100",
     "status": [
       "Passive",
       "Buff",
@@ -115991,7 +115991,7 @@
   {
     "name": "Flaming Spin",
     "type": "Fire",
-    "level": "Shiny Marowak",
+    "level": null,
     "status": [
       "AOE",
       "Passive",

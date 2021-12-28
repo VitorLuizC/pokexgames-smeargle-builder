@@ -5,7 +5,7 @@ const path = require('path');
 
 /** @type {(name: string, data: unknown) => Promise<void>} */
 function saveJSON(name, data) {
-  const file = path.resolve(__dirname, '../data/' + name);
+  const file = path.resolve(__dirname, '../../data/' + name);
 
   const json = JSON.stringify(data, null, 2);
 

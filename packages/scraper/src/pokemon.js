@@ -1,10 +1,10 @@
 'use strict';
 
-const download = require('./download');
 const path = require('path');
 const puppeteer = require('puppeteer');
 
-const saveJSON = require('./saveJSON');
+const saveJSON = require('./utils/saveJSON');
+const downloadImage = require('./utils/downloadImage');
 
 /**
  * @typedef {Object} Pokemon
@@ -86,7 +86,7 @@ async function main() {
       '../data/images/' + (image.split('/').pop() ?? 'Unknown'),
     );
 
-    await download(image, file);
+    await downloadImage(image, file);
   }
 
   console.log('Images were downloaded');

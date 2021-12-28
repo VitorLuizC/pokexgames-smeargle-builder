@@ -3,7 +3,7 @@
 const puppeteer = require('puppeteer');
 
 const data = require('../data/pokemon.json');
-const saveJSON = require('./saveJSON');
+const saveJSON = require('./utils/saveJSON');
 
 /**
  * @typedef {Object} Move
@@ -41,7 +41,7 @@ async function main() {
 
     /** @type {Omit<Move, 'pokemon'>[]} */
     const moves = await page.evaluate(() => {
-      const rows = Array.from(document.querySelectorAll('table tr'));
+      const rows = Array.from(document.querySelectorAll('table tr[align="center"]'));
       return rows.reduce((moves, row) => {
         const position = row.querySelector('th');
       
@@ -72,6 +72,14 @@ async function main() {
   
     console.log('JSON was updated');
   }
+
+  await page.close();
+
+  console.log('Page was closed');
+
+  await browser.close();
+
+  console.log('Browser was closed');
 }
 
 main().catch((error) => {
