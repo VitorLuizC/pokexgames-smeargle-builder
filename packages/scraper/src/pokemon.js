@@ -1,8 +1,10 @@
+'use strict';
+
 const download = require('./download');
 const path = require('path');
 const puppeteer = require('puppeteer');
 
-const fs = require('fs');
+const saveJSON = require('./saveJSON');
 
 /**
  * @typedef {Object} Pokemon
@@ -74,19 +76,7 @@ async function main() {
 
   console.log('Page was scraped');
 
-  const file = path.resolve(__dirname, '../data/pokemon.json');
-
-  const json = JSON.stringify(pokemon, null, 2);
-
-  await new Promise((resolve, reject) => {
-    fs.writeFile(file, json, (error) => {
-      if (error) {
-        reject(error);
-      } else {
-        resolve();
-      }
-    });
-  });
+  saveJSON('pokemon.json', pokemon);
 
   console.log('JSON was written');
 
